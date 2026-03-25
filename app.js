@@ -235,8 +235,8 @@ function parseDuration(iso) {
 // ===== X 検索URL生成 =====
 function buildXSearchUrl(iso) {
   const d = new Date(iso);
-  const query = `#あさ8 ${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日`;
-  return `https://x.com/search?q=${encodeURIComponent(query)}&f=live`;
+  const query = `site:x.com #あさ8 ${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日`;
+  return `https://www.google.com/search?q=${encodeURIComponent(query)}`;
 }
 
 // ===== 日付フォーマット =====
@@ -274,7 +274,7 @@ function renderVideoCard(item) {
       <a class="x-search-btn"
          href="${buildXSearchUrl(snippet.publishedAt)}"
          target="_blank" rel="noopener noreferrer">
-        𝕏 この日の関連ポストを検索
+        🔍 この日のXポストをGoogle検索
       </a>
     </div>
     ${hasChapters ? renderChapterPanel(videoId, chapters) : ''}
