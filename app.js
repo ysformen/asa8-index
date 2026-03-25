@@ -265,6 +265,11 @@ function renderVideoCard(item) {
       ${duration ? `<span class="duration-badge">${escHtml(duration)}</span>` : ''}
       <div class="play-overlay"><div class="play-icon">▶</div></div>
     </div>
+    <div class="player-wrap hidden">
+      <iframe class="player-iframe" frameborder="0" allowfullscreen
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+      </iframe>
+    </div>
     <div class="card-body">
       <div class="card-title">${escHtml(snippet.title)}</div>
       <div class="card-meta">
@@ -287,13 +292,20 @@ function renderVideoCard(item) {
     </div>
   `;
 
-  // サムネイルタップ → YouTubeを開く
-  card.querySelector('.thumb-wrap').addEventListener('click', (e) => {
-    e.stopPropagation();
-    window.open(`https://www.youtube.com/watch?v=${videoId}`, '_blank', 'noopener');
-  });
+  const thumbWrap  = card.querySelector('.thumb-wrap');
+  const playerWrap = card.querySelector('.player-wrap');
+  const iframe     = card.querySelector('.player-iframe');
 
-  // チャプター展開
+  function playVideo(seconds) {
+    thumbWrap.classList.add('hidden');
+    playerWrap.classList.remove('hidden');
+    iframe.src = `https://www.youtube.com/embed/${videoId}?start=${seconds}&autoplay=1`;
+  }
+
+  // サムネイルタップ → ページ内再生
+  thumbWrap.addEventListener('click', () => playVideo(0));
+
+  // チャプター展開 ＋ タップで指定秒から再生
   if (hasChapters) {
     const chapterPanel = card.querySelector('#chapter-panel');
     const chapterHeader = card.querySelector('.chapter-header');
@@ -302,6 +314,12 @@ function renderVideoCard(item) {
       const isOpen = !chapterPanel.classList.contains('hidden');
       chapterPanel.classList.toggle('hidden', isOpen);
       toggleIcon.classList.toggle('open', !isOpen);
+    });
+    chapterPanel.querySelectorAll('.chapter-item').forEach((el) => {
+      el.addEventListener('click', (e) => {
+        e.preventDefault();
+        playVideo(Number(el.dataset.seconds));
+      });
     });
   }
 
@@ -336,6 +354,7 @@ function renderChapterPanel(videoId, chapters) {
   const items = chapters.map((ch) => `
     <a class="chapter-item"
        href="https://www.youtube.com/watch?v=${escHtml(videoId)}&t=${ch.seconds}s"
+       data-seconds="${ch.seconds}"
        target="_blank" rel="noopener noreferrer">
       <span class="chapter-time">${escHtml(ch.timeStr)}</span>
       <span class="chapter-title">${escHtml(ch.title)}</span>

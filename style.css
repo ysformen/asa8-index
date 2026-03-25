@@ -169,6 +169,18 @@ main {
   position: absolute; inset: 0;
   width: 100%; height: 100%; object-fit: cover;
 }
+.thumb-wrap.hidden { display: none; }
+
+.player-wrap {
+  position: relative; width: 100%;
+  padding-bottom: 56.25%;
+  background: #000;
+}
+.player-wrap.hidden { display: none; }
+.player-iframe {
+  position: absolute; inset: 0;
+  width: 100%; height: 100%; border: none;
+}
 .duration-badge {
   position: absolute; bottom: 8px; right: 8px;
   background: rgba(0,0,0,.75); color: #fff;
