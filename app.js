@@ -278,6 +278,13 @@ function renderVideoCard(item) {
       </a>
     </div>
     ${hasChapters ? renderChapterPanel(videoId, chapters) : ''}
+    <div class="related-panel hidden">
+      <div class="related-header">
+        <span class="related-header-label">▶ 関連YouTube動画</span>
+        <span class="related-toggle-icon">▾</span>
+      </div>
+      <div class="related-body"></div>
+    </div>
   `;
 
   // サムネイルタップ → YouTubeを開く
@@ -286,18 +293,41 @@ function renderVideoCard(item) {
     window.open(`https://www.youtube.com/watch?v=${videoId}`, '_blank', 'noopener');
   });
 
-  // カードタイトル部タップ → チャプター展開
+  // チャプター展開
   if (hasChapters) {
     const chapterPanel = card.querySelector('#chapter-panel');
     const chapterHeader = card.querySelector('.chapter-header');
     const toggleIcon = card.querySelector('.chapter-toggle-icon');
-
     chapterHeader.addEventListener('click', () => {
       const isOpen = !chapterPanel.classList.contains('hidden');
       chapterPanel.classList.toggle('hidden', isOpen);
       toggleIcon.classList.toggle('open', !isOpen);
     });
   }
+
+  // 関連動画パネル（遅延読み込み）
+  const relatedPanel  = card.querySelector('.related-panel');
+  const relatedHeader = card.querySelector('.related-header');
+  const relatedIcon   = card.querySelector('.related-toggle-icon');
+  const relatedBody   = card.querySelector('.related-body');
+  let relatedLoaded = false;
+
+  relatedPanel.classList.remove('hidden');
+  relatedHeader.addEventListener('click', async () => {
+    const isOpen = relatedBody.classList.contains('open');
+    if (isOpen) {
+      relatedBody.classList.remove('open');
+      relatedIcon.classList.remove('open');
+      return;
+    }
+    relatedBody.classList.add('open');
+    relatedIcon.classList.add('open');
+    if (!relatedLoaded) {
+      relatedLoaded = true;
+      const keyword = extractSearchKeyword(snippet.title, chapters);
+      await loadRelatedVideos(relatedBody, keyword, snippet.publishedAt);
+    }
+  });
 
   videoList.appendChild(card);
 }
@@ -321,6 +351,72 @@ function renderChapterPanel(videoId, chapters) {
       <div class="chapter-list">${items}</div>
     </div>
   `;
+}
+
+// ===== 関連動画キーワード抽出 =====
+function extractSearchKeyword(title, chapters) {
+  // 【ゲスト:○○】があれば使う
+  const guest = title.match(/[【\[]([^】\]]+)[】\]]/);
+  if (guest) return guest[1].replace(/ゲスト[:：]\s*/,'').trim();
+
+  // チャプターから「準備画面」「番組開始」「ニュース一覧」「締め挨拶」を除いた最初のトピック
+  const skip = /準備|開始|一覧|締め|終了|エンディング|オープニング/;
+  const topic = chapters.find((ch) => !skip.test(ch.title));
+  if (topic) return topic.title.replace(/[。、．,]/g, ' ').trim().slice(0, 30);
+
+  // タイトルからあさ8固有の定型文を除去
+  return title
+    .replace(/R8\s*\d+\/\d+/g, '')
+    .replace(/百田尚樹[・･]有本香のニュース生放送/g, '')
+    .replace(/あさ8時[！!]?/g, '')
+    .replace(/第\d+回/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .slice(0, 40) || 'あさ8 ニュース';
+}
+
+// ===== 関連動画読み込み =====
+async function loadRelatedVideos(container, keyword, publishedAt) {
+  container.innerHTML = '<div class="related-loading">検索中…</div>';
+
+  try {
+    const base = new Date(publishedAt);
+    const after  = new Date(base); after.setDate(after.getDate() - 1);
+    const before = new Date(base); before.setDate(before.getDate() + 2);
+
+    const params = new URLSearchParams({
+      part: 'snippet',
+      q: keyword,
+      type: 'video',
+      maxResults: 5,
+      publishedAfter:  after.toISOString(),
+      publishedBefore: before.toISOString(),
+      key: apiKey,
+    });
+    const res = await apiFetch(`${API_BASE}/search?${params}`);
+    const items = (res.items || []).filter((v) => v.snippet.channelId !== CHANNEL_ID);
+
+    if (items.length === 0) {
+      container.innerHTML = '<div class="related-empty">関連動画が見つかりませんでした</div>';
+      return;
+    }
+    container.innerHTML = items.slice(0, 3).map((v) => {
+      const vid = v.id.videoId;
+      const t   = v.snippet;
+      const img = t.thumbnails?.default?.url || '';
+      return `
+        <a class="related-item" href="https://www.youtube.com/watch?v=${escHtml(vid)}"
+           target="_blank" rel="noopener noreferrer">
+          <img class="related-thumb" src="${escHtml(img)}" alt="" loading="lazy">
+          <div class="related-info">
+            <div class="related-title">${escHtml(t.title)}</div>
+            <div class="related-ch">${escHtml(t.channelTitle)}</div>
+          </div>
+        </a>`;
+    }).join('');
+  } catch (err) {
+    container.innerHTML = `<div class="related-empty">${escHtml(errorMessage(err))}</div>`;
+  }
 }
 
 function renderSkeletons(n) {
