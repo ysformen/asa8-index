@@ -355,7 +355,7 @@ function renderVideoCard(item) {
 
   // チャプター展開 ＋ タップで指定秒から再生
   if (hasChapters) {
-    const chapterPanel = card.querySelector('#chapter-panel');
+    const chapterPanel = card.querySelector('.chapter-panel');
     const chapterHeader = card.querySelector('.chapter-header');
     const toggleIcon = card.querySelector('.chapter-toggle-icon');
     chapterHeader.addEventListener('click', () => {
@@ -410,7 +410,7 @@ function renderChapterPanel(videoId, chapters) {
   `).join('');
 
   return `
-    <div id="chapter-panel" class="hidden">
+    <div class="chapter-panel hidden">
       <div class="chapter-header">
         <span class="chapter-header-label">📋 チャプター一覧</span>
         <span class="chapter-toggle-icon">▾</span>
