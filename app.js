@@ -202,7 +202,7 @@ function extractChapters(description) {
   if (!description) return [];
   const chapters = [];
   // 0:00 や 1:23:45 形式のタイムスタンプを抽出
-  const re = /^[ \t]*(\d{1,2}:\d{2}(?::\d{2})?)[ \t]+(.+)$/gm;
+  const re = /^[ \t\u3000]*(\d{1,2}:\d{2}(?::\d{2})?)[ \t\u3000]+(.+)$/gm;
   let match;
   while ((match = re.exec(description)) !== null) {
     const timeStr = match[1].trim();
