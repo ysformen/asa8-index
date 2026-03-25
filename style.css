@@ -123,6 +123,9 @@ main {
 #status-bar.error { background: #fff2f2; color: #c0392b; border: 1px solid #ffc7c7; }
 #status-bar.loading { background: var(--surface2); color: var(--text-muted); border: 1px solid var(--border); }
 
+/* ===== RSS mode ===== */
+.rss-mode { display: none !important; }
+
 /* ===== Sort / filter bar ===== */
 .toolbar {
   display: flex; gap: 8px; margin-bottom: 16px; align-items: center;

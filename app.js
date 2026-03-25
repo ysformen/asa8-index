@@ -12,7 +12,8 @@ let nextPageToken = '';
 let currentQuery = '';
 let currentOrder = 'date';
 let isLoading = false;
-let expandedChapterCard = null; // 現在チャプターを展開中のカードID
+let expandedChapterCard = null;
+let isRSSMode = false;
 
 // ===== DOM 取得 =====
 const modalOverlay   = document.getElementById('modal-overlay');
@@ -34,7 +35,10 @@ function init() {
   apiKey = localStorage.getItem(API_KEY_STORAGE) || '';
 
   if (!apiKey) {
-    showModal();
+    isRSSMode = true;
+    document.querySelector('.toolbar').classList.add('rss-mode');
+    document.querySelector('.search-wrap').classList.add('rss-mode');
+    fetchRSS();
   } else {
     fetchVideos(true);
   }
@@ -81,7 +85,11 @@ function saveApiKey() {
   }
   apiKey = key;
   localStorage.setItem(API_KEY_STORAGE, key);
+  isRSSMode = false;
+  document.querySelector('.toolbar').classList.remove('rss-mode');
+  document.querySelector('.search-wrap').classList.remove('rss-mode');
   hideModal();
+  videoList.innerHTML = '';
   fetchVideos(true);
 }
 
@@ -102,6 +110,46 @@ function clearSearch() {
   searchClear.classList.add('hidden');
   currentQuery = '';
   fetchVideos(true);
+}
+
+// ===== RSS (APIキーなし) =====
+async function fetchRSS() {
+  renderSkeletons(4);
+  showStatus('💡 ⚙️ からAPIキーを設定するとフル機能が使えます', 'info');
+  try {
+    const res = await fetch(
+      `https://www.youtube.com/feeds/videos.xml?channel_id=${CHANNEL_ID}`
+    );
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const xml = await res.text();
+    const items = parseRSS(xml);
+    clearSkeletons();
+    if (items.length === 0) { renderEmpty(); return; }
+    items.forEach(renderVideoCard);
+  } catch (err) {
+    clearSkeletons();
+    showStatus(errorMessage(err), 'error');
+  }
+}
+
+function parseRSS(xmlText) {
+  const doc = new DOMParser().parseFromString(xmlText, 'application/xml');
+  return Array.from(doc.querySelectorAll('entry')).map((e) => {
+    const ns = 'http://www.youtube.com/xml/schemas/2015';
+    const med = 'http://search.yahoo.com/mrss/';
+    const videoId   = e.getElementsByTagNameNS(ns, 'videoId')[0]?.textContent || '';
+    const title     = e.querySelector('title')?.textContent || '';
+    const published = e.querySelector('published')?.textContent || '';
+    const thumbEl   = e.getElementsByTagNameNS(med, 'thumbnail')[0];
+    const thumbUrl  = thumbEl?.getAttribute('url') || `https://i.ytimg.com/vi/${videoId}/mqdefault.jpg`;
+    const descEl    = e.getElementsByTagNameNS(med, 'description')[0];
+    const description = descEl?.textContent || '';
+    return {
+      id: videoId,
+      snippet: { title, publishedAt: published, description, thumbnails: { medium: { url: thumbUrl } } },
+      contentDetails: { duration: '' },
+    };
+  });
 }
 
 // ===== YouTube API =====
@@ -330,7 +378,7 @@ function renderVideoCard(item) {
   const relatedBody   = card.querySelector('.related-body');
   let relatedLoaded = false;
 
-  relatedPanel.classList.remove('hidden');
+  if (!isRSSMode) relatedPanel.classList.remove('hidden');
   relatedHeader.addEventListener('click', async () => {
     const isOpen = relatedBody.classList.contains('open');
     if (isOpen) {
