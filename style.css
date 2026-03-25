@@ -204,6 +204,18 @@ main {
 .card-meta span::before { content: '·'; margin-right: 8px; }
 .card-meta span:first-child::before { content: ''; margin-right: 0; }
 
+.x-search-btn {
+  display: inline-flex; align-items: center; gap: 5px;
+  margin-top: 10px;
+  height: var(--min-tap); padding: 0 14px;
+  background: #000; color: #fff;
+  font-size: .8125rem; font-weight: 600;
+  border-radius: 22px; text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+  transition: opacity .15s;
+}
+.x-search-btn:active { opacity: .75; }
+
 /* ===== Chapter panel ===== */
 #chapter-panel {
   margin-top: 4px;

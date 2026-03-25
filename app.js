@@ -232,6 +232,13 @@ function parseDuration(iso) {
   return `${min}:${String(sec).padStart(2,'0')}`;
 }
 
+// ===== X 検索URL生成 =====
+function buildXSearchUrl(iso) {
+  const d = new Date(iso);
+  const query = `#あさ8 ${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日`;
+  return `https://x.com/search?q=${encodeURIComponent(query)}&f=live`;
+}
+
 // ===== 日付フォーマット =====
 function formatDate(iso) {
   if (!iso) return '';
@@ -264,6 +271,11 @@ function renderVideoCard(item) {
         <span>${formatDate(snippet.publishedAt)}</span>
         ${hasChapters ? `<span>${chapters.length}チャプター</span>` : ''}
       </div>
+      <a class="x-search-btn"
+         href="${buildXSearchUrl(snippet.publishedAt)}"
+         target="_blank" rel="noopener noreferrer">
+        𝕏 この日の関連ポストを検索
+      </a>
     </div>
     ${hasChapters ? renderChapterPanel(videoId, chapters) : ''}
   `;
