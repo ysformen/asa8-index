@@ -1,13 +1,13 @@
 'use strict';
 
 // ===== 定数 =====
-const CHANNEL_ID = 'UCFkzEMq8QYFHa9RFNqULgFg';
+const CHANNEL_ID = 'UC07a-1FKy4sJ4ZZTpp2RN5g';
 const API_KEY_STORAGE = 'asa8_yt_api_key';
 const API_BASE = 'https://www.googleapis.com/youtube/v3';
 const MAX_RESULTS = 20;
 
 // ===== 状態 =====
-let apiKey = 'AIzaSyBhoufIhhbtavdh7IENAqKXrX3-edCn5zE';
+let apiKey = '';
 let nextPageToken = '';
 let currentQuery = '';
 let currentOrder = 'date';
