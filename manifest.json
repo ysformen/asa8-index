@@ -1,0 +1,10 @@
+{
+  "name": "あさ8インデックス",
+  "short_name": "あさ8",
+  "description": "あさ8 YouTubeチャンネルの動画インデックス",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff6b35",
+  "orientation": "portrait-primary",
+}

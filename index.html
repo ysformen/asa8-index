@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#ff6b35">
+  <meta name="description" content="あさ8 YouTubeチャンネルの動画インデックス。チャプター付きで快適に検索。">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="あさ8">
+  <title>あさ8インデックス</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ===== APIキー入力モーダル ===== -->
+  <div id="modal-overlay" class="hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div id="modal">
+      <h2 id="modal-title">🔑 YouTube APIキーを設定</h2>
+      <p>
+        Google Cloud Console で YouTube Data API v3 を有効にし、
+        APIキーを取得して入力してください。<br>
+        キーはこのデバイスにのみ保存されます。
+      </p>
+      <label for="api-key-input">APIキー</label>
+      <input
+        id="api-key-input"
+        type="password"
+        placeholder="AIza…"
+        autocomplete="off"
+        spellcheck="false"
+      >
+      <button id="modal-save-btn">保存して動画を読み込む</button>
+    </div>
+  </div>
+
+  <!-- ===== ヘッダー ===== -->
+  <header>
+    <div class="header-inner">
+      <span class="logo">あさ8</span>
+      <div class="search-wrap">
+        <input
+          id="search-input"
+          type="search"
+          placeholder="動画を検索…"
+          aria-label="動画を検索"
+          enterkeyhint="search"
+        >
+        <button id="search-clear" class="search-clear hidden" aria-label="検索をクリア">✕</button>
+      </div>
+      <button id="settings-btn" aria-label="APIキー設定">⚙️</button>
+    </div>
+  </header>
+
+  <!-- ===== メインコンテンツ ===== -->
+  <main>
+
+    <!-- ステータスバー -->
+    <div id="status-bar" class="hidden" role="status" aria-live="polite"></div>
+
+    <!-- ソート・フィルターバー -->
+    <div class="toolbar" role="toolbar" aria-label="並び順">
+      <button class="sort-btn active" data-order="date">新着順</button>
+      <button class="sort-btn" data-order="viewCount">人気順</button>
+      <button class="sort-btn" data-order="rating">評価順</button>
+      <span id="result-count" class="result-count"></span>
+    </div>
+
+    <!-- 動画リスト -->
+    <div id="video-list" role="list" aria-label="動画一覧"></div>
+
+    <!-- もっと読み込む -->
+    <button id="load-more-btn" class="hidden" aria-label="さらに読み込む">
+      さらに読み込む
+    </button>
+
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
