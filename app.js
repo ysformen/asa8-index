@@ -117,18 +117,15 @@ async function fetchRSS() {
   renderSkeletons(4);
   showStatus('💡 ⚙️ からAPIキーを設定するとフル機能が使えます', 'info');
   try {
-    const rssUrl = `https://www.youtube.com/feeds/videos.xml?channel_id=${CHANNEL_ID}`;
-    const proxyUrl = `https://api.codetabs.com/v1/proxy/?quest=${encodeURIComponent(rssUrl)}`;
-    const res = await fetch(proxyUrl);
+    const res = await fetch('./videos.json');
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const xml = await res.text();
-    const items = parseRSS(xml);
+    const items = await res.json();
     clearSkeletons();
     if (items.length === 0) { renderEmpty(); return; }
     items.forEach(renderVideoCard);
   } catch (err) {
     clearSkeletons();
-    showStatus(errorMessage(err), 'error');
+    showStatus('動画データの取得に失敗しました。しばらくしてから再読み込みしてください。', 'error');
   }
 }
 
