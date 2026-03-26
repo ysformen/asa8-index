@@ -76,6 +76,44 @@
     }
   },
   {
+    "id": "K_rakJAq3WU",
+    "snippet": {
+      "title": "R8 3/27 百田尚樹・有本香のニュース生放送　あさ8時！ 第807回",
+      "publishedAt": "2026-03-23T09:30:18Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K_rakJAq3WU/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K_rakJAq3WU/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K_rakJAq3WU/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/K_rakJAq3WU/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/K_rakJAq3WU/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "BNNZutlQSU8",
     "snippet": {
       "title": "R8 3/23 百田尚樹・有本香のニュース生放送　あさ8時！ 第804回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H57M57S"
-    }
-  },
-  {
-    "id": "AmiIvDMFxXE",
-    "snippet": {
-      "title": "R7 11/20【ゲスト：武田 邦彦】百田尚樹・有本香のニュース生放送　あさ8時！ 第734回",
-      "publishedAt": "2025-11-20T01:44:00Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:20　番組開始\n00:03:22　ニュース一覧\n00:38:35　防諜機関が対日威嚇　邦人摘発強化も　中国\n00:54:40　英MI5が議員らに中国によるスパイ獲得活動を警告\n01:05:48　レアアースの脱中国依存、官民で「地道な取り組み」南鳥島沖で試掘\n01:16:12　世界の石油需要、2040年まで増加続く見通し\n01:34:17　締め挨拶\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/AmiIvDMFxXE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/AmiIvDMFxXE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/AmiIvDMFxXE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/AmiIvDMFxXE/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/AmiIvDMFxXE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H38M32S"
     }
   }
 ]
