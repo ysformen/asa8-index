@@ -1140,6 +1140,44 @@
     }
   },
   {
+    "id": "I5Vl1qaSB3o",
+    "snippet": {
+      "title": "R8 1/8 百田尚樹・有本香のニュース生放送　あさ8時！ 第763回",
+      "publishedAt": "2026-01-08T01:37:28Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:01:15　番組開始\n00:03:33　ニュース一覧\n00:04:57　日本保守党　衆議院選挙の候補予定者を発表　\n00:17:30　維新、国保逃れで処分へ　地方議員４人、法人から低額報酬　\n00:25:48　東シナ海のガス田で中国が新たな試掘か　日本政府抗議\n00:40:43　外国人高齢者23万人10年で1・5倍　国民年金納付49％\n00:53:59　蕨市は中国人・ベトナム人らが多く無職・職業不詳が存在\n01:28:09　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I5Vl1qaSB3o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I5Vl1qaSB3o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I5Vl1qaSB3o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/I5Vl1qaSB3o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/I5Vl1qaSB3o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H31M11S"
+    }
+  },
+  {
     "id": "iRlX7NY39i8",
     "snippet": {
       "title": "R8 1/5【ゲスト：島田 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第760回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT2H11M48S"
-    }
-  },
-  {
-    "id": "YeUsD09Dag4",
-    "snippet": {
-      "title": "R7 11/21 百田尚樹・有本香のニュース生放送　あさ8時！ 第735回",
-      "publishedAt": "2025-11-21T02:02:24Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:01:04　番組開始\n00:39:34　ニュース一覧\n00:41:16　「誤った道を歩み続けるなら必要な措置」中国商務省\n01:16:18　中国の“渡航自粛”JR東海社長｢大きな影響はない｣\n01:29:48　国会議員の歳費、月５万円アップで調整\n01:42:30　外国人の犯罪率 日本人の1.72倍 短期滞在者除いた数字で\n01:54:37　締め挨拶\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/YeUsD09Dag4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/YeUsD09Dag4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/YeUsD09Dag4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/YeUsD09Dag4/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/YeUsD09Dag4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H57M57S"
     }
   }
 ]
