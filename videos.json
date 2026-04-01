@@ -38,6 +38,44 @@
     }
   },
   {
+    "id": "NOyPumB2YgE",
+    "snippet": {
+      "title": "R8 4/2 百田尚樹・有本香のニュース生放送　あさ8時！ 第810回",
+      "publishedAt": "2026-03-30T21:05:04Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NOyPumB2YgE/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NOyPumB2YgE/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NOyPumB2YgE/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NOyPumB2YgE/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NOyPumB2YgE/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "i5_2LCJ7yQs",
     "snippet": {
       "title": "R8 3/30 百田尚樹・有本香のニュース生放送　あさ8時！ 第808回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT2H26M9S"
-    }
-  },
-  {
-    "id": "78Hz27h2Vjg",
-    "snippet": {
-      "title": "R7 11/25 百田尚樹・有本香のニュース生放送　あさ8時！ 第737回",
-      "publishedAt": "2025-11-25T01:36:10Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:22　番組開始\n00:02:08　ニュース一覧\n00:04:25　「脱中国」に強い決意　青森市長\n00:09:41　百田尚樹 登場\n00:30:37　「日本は実際の行動で対話への誠意を示すべき」中国 & 中国が切った沖縄カード 宣伝に利用される「琉球独立」「先住民族」論\n00:43:15　百田尚樹 退出\n00:45:57　ﾊｰﾊﾞｰﾄﾞ大元学長、教職退くと報道 ｴﾌﾟｽﾀｲﾝ元被告との関係で\n00:54:39　米テキサス州、ムスリム権利擁護団体を「テロ組織」に指定\n01:29:36　締め挨拶\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/78Hz27h2Vjg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/78Hz27h2Vjg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/78Hz27h2Vjg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/78Hz27h2Vjg/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/78Hz27h2Vjg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H31M39S"
     }
   }
 ]
