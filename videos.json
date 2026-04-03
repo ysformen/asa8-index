@@ -1,5 +1,43 @@
 [
   {
+    "id": "TLD8XcW91GQ",
+    "snippet": {
+      "title": "R8 4/3【ゲスト：高橋 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第811回",
+      "publishedAt": "2026-04-03T01:28:24Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TLD8XcW91GQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TLD8XcW91GQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TLD8XcW91GQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TLD8XcW91GQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TLD8XcW91GQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT2H20M38S"
+    }
+  },
+  {
     "id": "NOyPumB2YgE",
     "snippet": {
       "title": "R8 4/2 百田尚樹・有本香のニュース生放送　あさ8時！ 第810回",
@@ -73,44 +111,6 @@
     },
     "contentDetails": {
       "duration": "PT2H26M58S"
-    }
-  },
-  {
-    "id": "TLD8XcW91GQ",
-    "snippet": {
-      "title": "R8 4/3【ゲスト：高橋 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第811回",
-      "publishedAt": "2026-03-30T21:08:38Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/TLD8XcW91GQ/default_live.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/TLD8XcW91GQ/mqdefault_live.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/TLD8XcW91GQ/hqdefault_live.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/TLD8XcW91GQ/sddefault_live.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/TLD8XcW91GQ/maxresdefault_live.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "P0D"
     }
   },
   {
