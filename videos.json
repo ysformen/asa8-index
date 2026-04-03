@@ -228,44 +228,6 @@
     }
   },
   {
-    "id": "1GtagEu8aGY",
-    "snippet": {
-      "title": "R8 3/24【ゲスト：織田 邦男】百田尚樹・有本香のニュース生放送　あさ8時！ 第805回",
-      "publishedAt": "2026-03-24T02:11:52Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:53　番組開始\n00:30:08　ニュース一覧\n00:31:43　防大校長に吉田圭秀・前統幕長　異例の元制服組トップを起用\n00:51:34　トランプ大統領、発電所への攻撃を5日間延期\n01:30:54　米国連大使、ホルムズ海峡巡り「日本の首相が海上自衛隊の支援約束」 / イラン停戦後の自衛隊派遣に言及　茂木外相、機雷掃海で可能性\n02:01:52　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1GtagEu8aGY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1GtagEu8aGY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1GtagEu8aGY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/1GtagEu8aGY/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/1GtagEu8aGY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H6M18S"
-    }
-  },
-  {
     "id": "BNNZutlQSU8",
     "snippet": {
       "title": "R8 3/23 百田尚樹・有本香のニュース生放送　あさ8時！ 第804回",
@@ -1897,6 +1859,44 @@
     },
     "contentDetails": {
       "duration": "PT2H14M57S"
+    }
+  },
+  {
+    "id": "yf1j3Dzdam4",
+    "snippet": {
+      "title": "R7 11/27【ゲスト：島田 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第739回",
+      "publishedAt": "2025-11-27T02:33:21Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:50　番組開始\n00:23:47　ニュース一覧\n00:25:45　保守党 島田議員「平口大臣の時間稼ぎ答弁で時間の約半分を空費」\n00:50:21　高市首相　存立危機事態の判断は「政府が総合判断」/   高市首相は台湾有事答弁を事実上撤回と野田氏 / 立民・岡田克也氏　首相の台湾有事巡る発言は「想定外」\n01:47:52　極右党首に登院停止処分　ブルカで示威は「非礼」豪上院\n02:07:20　締め挨拶\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yf1j3Dzdam4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yf1j3Dzdam4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yf1j3Dzdam4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yf1j3Dzdam4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yf1j3Dzdam4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT2H26M9S"
     }
   }
 ]
