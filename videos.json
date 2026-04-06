@@ -1,5 +1,43 @@
 [
   {
+    "id": "yrIWge-mw9E",
+    "snippet": {
+      "title": "R8 4/7 百田尚樹・有本香のニュース生放送　あさ8時！ 第813回",
+      "publishedAt": "2026-04-06T17:12:47Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yrIWge-mw9E/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yrIWge-mw9E/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yrIWge-mw9E/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yrIWge-mw9E/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yrIWge-mw9E/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "gRV1Ywn6MY0",
     "snippet": {
       "title": "R8 4/6【ゲスト：小野寺 まさる】百田尚樹・有本香のニュース生放送　あさ8時！ 第812回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H39M38S"
-    }
-  },
-  {
-    "id": "mCrGzMDOF-w",
-    "snippet": {
-      "title": "R7 12/1 百田尚樹・有本香のニュース生放送　あさ8時！ 第741回",
-      "publishedAt": "2025-12-01T02:23:56Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:22　番組開始\n00:01:59　ニュース一覧\n00:04:40　公明党徳島県議団 古川広志容疑者を逮捕 女性の裸盗撮の疑い\n00:18:06　保守党・百田氏、首相補佐官に西岡力氏「任命して」\n01:10:40　日本社会に食い込んだ中国系詐欺組織　首領は港区に一時潜伏か\n01:19:45　「問題メディア」への非難開始 ホワイトハウス公式サイト\n01:38:09　米大統領、途上国からの移民「恒久停止」\n01:50:27　自立維国は交付金依存　参政、「個人」が５割　各党収入\n02:13:20　締め挨拶\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mCrGzMDOF-w/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mCrGzMDOF-w/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mCrGzMDOF-w/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/mCrGzMDOF-w/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/mCrGzMDOF-w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H14M57S"
     }
   }
 ]
