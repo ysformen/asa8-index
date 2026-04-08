@@ -76,6 +76,44 @@
     }
   },
   {
+    "id": "vCTTJ2LHT9c",
+    "snippet": {
+      "title": "R8 4/9 百田尚樹・有本香のニュース生放送　あさ8時！ 第815回",
+      "publishedAt": "2026-04-06T23:51:03Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vCTTJ2LHT9c/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vCTTJ2LHT9c/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vCTTJ2LHT9c/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vCTTJ2LHT9c/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vCTTJ2LHT9c/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "gRV1Ywn6MY0",
     "snippet": {
       "title": "R8 4/6【ゲスト：小野寺 まさる】百田尚樹・有本香のニュース生放送　あさ8時！ 第812回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT2H21M43S"
-    }
-  },
-  {
-    "id": "a-hs7Yh-yyw",
-    "snippet": {
-      "title": "R7 12/2 百田尚樹・有本香のニュース生放送　あさ8時！ 第742回",
-      "publishedAt": "2025-12-02T01:47:25Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:46　番組開始\n00:10:47　ニュース一覧\n00:12:56　朝鮮総連が未返済の債務566億円、遅延損害金594億円\n00:33:01　鳩山由紀夫氏「首相の軽率なひと言で多くの国益を損なっている」\n00:47:06　中国BYD、日本でPHV初投入　スポーツ多目的車、398万円から\n01:03:40　“ポケットに手”の中国局長が日本企業を訪問\n01:26:13　ベセント米財務長官、「不法在留外国人」への税還付停止へ / 増える外国人児童の日本語指導　千葉市議会が現場視察で課題探る\n01:37:29　締め挨拶\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/a-hs7Yh-yyw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/a-hs7Yh-yyw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/a-hs7Yh-yyw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/a-hs7Yh-yyw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/a-hs7Yh-yyw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H39M38S"
     }
   }
 ]
