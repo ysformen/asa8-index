@@ -114,6 +114,44 @@
     }
   },
   {
+    "id": "4MLc2Ugz7K8",
+    "snippet": {
+      "title": "R8 4/10【ゲスト：島田 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第816回",
+      "publishedAt": "2026-04-06T23:51:57Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4MLc2Ugz7K8/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4MLc2Ugz7K8/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4MLc2Ugz7K8/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4MLc2Ugz7K8/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4MLc2Ugz7K8/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "gRV1Ywn6MY0",
     "snippet": {
       "title": "R8 4/6【ゲスト：小野寺 まさる】百田尚樹・有本香のニュース生放送　あさ8時！ 第812回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT2H27M52S"
-    }
-  },
-  {
-    "id": "mVTKoSiGZ34",
-    "snippet": {
-      "title": "R7 12/4 百田尚樹・有本香のニュース生放送　あさ8時！ 第744回",
-      "publishedAt": "2025-12-04T02:06:44Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:17　番組開始\n00:10:22　ニュース一覧\n00:12:15　安倍氏銃撃公判に昭恵さんが出席　被害者参加制度利用\n00:22:45　中国、英首相に「真の国家安全保障上の脅威」と呼ばれ猛反発\n00:43:24　財界訪中、予定通りの実施期待　「意義一層高まる」\n00:53:35　トランプ氏が台湾保証実施法案に署名、台湾が謝意\n01:00:16　中国、サンフランシスコ条約は「不法かつ無効」　\n01:23:29　｢留学生増へ授業料上げ」東北大の勝算は　世界で争奪戦\n01:35:24　小野田寛郎さん写真で中国に謝罪 海外サッカーチーム　\n01:56:11　締め挨拶\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mVTKoSiGZ34/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mVTKoSiGZ34/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mVTKoSiGZ34/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/mVTKoSiGZ34/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/mVTKoSiGZ34/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H58M24S"
     }
   }
 ]
