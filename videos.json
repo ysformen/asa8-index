@@ -380,6 +380,44 @@
     }
   },
   {
+    "id": "E4d7y05xnQU",
+    "snippet": {
+      "title": "R8 3/18 百田尚樹・有本香のニュース生放送　あさ8時！ 第801回",
+      "publishedAt": "2026-03-18T01:35:28Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E4d7y05xnQU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E4d7y05xnQU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E4d7y05xnQU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/E4d7y05xnQU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/E4d7y05xnQU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H31M39S"
+    }
+  },
+  {
     "id": "-_aKpAEK0Nk",
     "snippet": {
       "title": "R8 3/13【ゲスト：島田 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第798回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H58M24S"
-    }
-  },
-  {
-    "id": "ZE1kOm-V-hc",
-    "snippet": {
-      "title": "R7 12/3【ゲスト：小坂 英二】百田尚樹・有本香のニュース生放送　あさ8時！ 第743回",
-      "publishedAt": "2025-12-03T02:30:59Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:17　番組開始\n00:04:25　ニュース一覧\n00:06:17　百田代表「振り回される高市さんも情けない」議員定数削減で\n00:24:33　御徒町に「9階建てモスク」SNSで警戒感あるが　\n01:02:38　保守党・小坂氏「ネパール人の集住が進んでいる」荒川区\n01:26:21　「民泊不正」で都内初の強制捜査 荒川の施設と運営会社\n01:38:57　外国人の労働力「反対」59％　読売・早大共同世論調査\n01:54:53　土葬容認巡り自民党内で対立　岩屋氏「ガイドライン必要」\n02:19:58　締め挨拶\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZE1kOm-V-hc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZE1kOm-V-hc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZE1kOm-V-hc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ZE1kOm-V-hc/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ZE1kOm-V-hc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H21M43S"
     }
   }
 ]
