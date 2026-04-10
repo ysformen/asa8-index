@@ -456,6 +456,44 @@
     }
   },
   {
+    "id": "zuNvv1YXtf4",
+    "snippet": {
+      "title": "R8 3/16 百田尚樹・有本香のニュース生放送　あさ8時！ 第799回",
+      "publishedAt": "2026-03-16T02:08:55Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:03:47　番組開始\n00:34:05　ニュース一覧\n00:36:43　トランプ氏 ホルムズ海峡護衛へ 日本に艦艇派遣を「期待」\n00:56:12　石原宏高環境相「化石燃料に頼らぬ国造り必要」イラン情勢で\n00:58:03　防衛大校長に異例の元制服組起用　吉田圭秀前統幕長\n01:09:53　ホンダ・三部社長、「脱エンジン」計画の誤算認める\n01:31:10　出産無償化、移行期限設けず「一時金」も当面併存\n01:37:07　台湾統一見据え「民族団結法」中国・全人代が可決\n01:50:27　埼玉県警「室外機が盗まれる被害増加」「ワイヤー錠で固定して」\n02:00:58　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zuNvv1YXtf4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zuNvv1YXtf4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zuNvv1YXtf4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zuNvv1YXtf4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zuNvv1YXtf4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT2H3M25S"
+    }
+  },
+  {
     "id": "-_aKpAEK0Nk",
     "snippet": {
       "title": "R8 3/13【ゲスト：島田 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第798回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT2H1M47S"
-    }
-  },
-  {
-    "id": "QEPeBJafhYk",
-    "snippet": {
-      "title": "R7 12/8【ゲスト：島田 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第746回",
-      "publishedAt": "2025-12-08T02:34:57Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:01:21　番組開始\n00:29:38　ニュース一覧\n00:37:02　保守・島田洋一氏「大阪府知事に鼻面引きずり回されて」痛烈皮肉 \n01:12:12　川口市に全国初「外国人政策対応センター」構想\n01:52:45　「冷静かつ毅然と対応する」高市首相　中国軍機レーダー照射 / 「自衛隊機が安全を脅かした」中国海軍が主張 \n02:12:05　締め挨拶\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QEPeBJafhYk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QEPeBJafhYk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QEPeBJafhYk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/QEPeBJafhYk/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/QEPeBJafhYk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H27M52S"
     }
   }
 ]
