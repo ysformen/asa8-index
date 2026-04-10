@@ -304,44 +304,6 @@
     }
   },
   {
-    "id": "K_rakJAq3WU",
-    "snippet": {
-      "title": "R8 3/27 百田尚樹・有本香のニュース生放送　あさ8時！ 第807回",
-      "publishedAt": "2026-03-27T02:25:45Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:05:23　番組開始\n00:35:30　ニュース一覧\n00:37:58　外国人生活保護 北村議員の質問に 厚労省「人道上の観点から…」　\n00:46:31　保守・百田代表「ホルムズ海峡交渉で役に立てる」\n01:33:37　特定失踪者の木村かほるさん、平壌の商店で勤務か\n01:52:57　維新・遠藤国対委員長「ずっと寝ていたらいい」に野党反発\n02:11:26　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/K_rakJAq3WU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/K_rakJAq3WU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/K_rakJAq3WU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/K_rakJAq3WU/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/K_rakJAq3WU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H14M28S"
-    }
-  },
-  {
     "id": "Mx8y-dPvlJM",
     "snippet": {
       "title": "R8 3/25 百田尚樹・有本香のニュース生放送　あさ8時！ 第806回",
@@ -1897,6 +1859,44 @@
     },
     "contentDetails": {
       "duration": "PT2H27M52S"
+    }
+  },
+  {
+    "id": "mVTKoSiGZ34",
+    "snippet": {
+      "title": "R7 12/4 百田尚樹・有本香のニュース生放送　あさ8時！ 第744回",
+      "publishedAt": "2025-12-04T02:06:44Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:17　番組開始\n00:10:22　ニュース一覧\n00:12:15　安倍氏銃撃公判に昭恵さんが出席　被害者参加制度利用\n00:22:45　中国、英首相に「真の国家安全保障上の脅威」と呼ばれ猛反発\n00:43:24　財界訪中、予定通りの実施期待　「意義一層高まる」\n00:53:35　トランプ氏が台湾保証実施法案に署名、台湾が謝意\n01:00:16　中国、サンフランシスコ条約は「不法かつ無効」　\n01:23:29　｢留学生増へ授業料上げ」東北大の勝算は　世界で争奪戦\n01:35:24　小野田寛郎さん写真で中国に謝罪 海外サッカーチーム　\n01:56:11　締め挨拶\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mVTKoSiGZ34/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mVTKoSiGZ34/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mVTKoSiGZ34/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mVTKoSiGZ34/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mVTKoSiGZ34/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H58M24S"
     }
   }
 ]
