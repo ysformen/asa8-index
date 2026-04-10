@@ -228,6 +228,44 @@
     }
   },
   {
+    "id": "NOyPumB2YgE",
+    "snippet": {
+      "title": "R8 4/2 百田尚樹・有本香のニュース生放送　あさ8時！ 第810回",
+      "publishedAt": "2026-04-02T00:31:09Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NOyPumB2YgE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NOyPumB2YgE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NOyPumB2YgE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NOyPumB2YgE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NOyPumB2YgE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H26M58S"
+    }
+  },
+  {
     "id": "U4DXEn1ipsc",
     "snippet": {
       "title": "R8 3/31【ゲスト：小野寺 まさる】百田尚樹・有本香のニュース生放送　あさ8時！ 第809回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT2H26M31S"
-    }
-  },
-  {
-    "id": "HfpJlAEJOzk",
-    "snippet": {
-      "title": "R7 12/11【ゲスト：武田 邦彦】百田尚樹・有本香のニュース生放送　あさ8時！ 第748回",
-      "publishedAt": "2025-12-11T02:11:25Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:06　番組開始\n00:02:25　ニュース一覧\n00:04:41　男性管理職に生理痛体験促進　東京都女性活躍条例案\n00:28:54　吉村府知事、介護職などに3万円分のギフト支給\n00:56:53　保守党・百田氏、レーダー照射を批判　遠因に岩屋毅氏\n01:17:29　泊原発3号機「再稼働に同意する」と北海道知事が表明\n01:38:47　中国人ツアー「完全ストップ」依存回避へ 日本旅行業協会会長\n01:57:55　締め挨拶\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/HfpJlAEJOzk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/HfpJlAEJOzk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/HfpJlAEJOzk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/HfpJlAEJOzk/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/HfpJlAEJOzk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H1M47S"
     }
   }
 ]
