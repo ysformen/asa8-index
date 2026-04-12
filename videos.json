@@ -1,5 +1,43 @@
 [
   {
+    "id": "APsoYYYKjOc",
+    "snippet": {
+      "title": "R8 4/13【ゲスト：小野寺 まさる】百田尚樹・有本香のニュース生放送　あさ8時！ 第817回",
+      "publishedAt": "2026-04-12T11:23:19Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/APsoYYYKjOc/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/APsoYYYKjOc/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/APsoYYYKjOc/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/APsoYYYKjOc/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/APsoYYYKjOc/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "4MLc2Ugz7K8",
     "snippet": {
       "title": "R8 4/10【ゲスト：島田 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第816回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H48M21S"
-    }
-  },
-  {
-    "id": "WWW4FEqa9gY",
-    "snippet": {
-      "title": "R7 12/15【ゲスト：平井 宏治】百田尚樹・有本香のニュース生放送　あさ8時！ 第750回",
-      "publishedAt": "2025-12-15T01:34:00Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:01:20　番組開始\n00:12:01　ニュース一覧\n00:15:12　経団連会長、1月の北京訪問に暗雲　関係「政冷経冷」に\n01:02:08　対中半導体規制に抜け穴、昨年380億ドルの製造装置購入\n01:31:59　1.4ナノ半導体、電力10分の1で製造　DNPとキヤノンが実用化\n01:50:33　新設メガソーラーなどの売電価格上乗せ廃止へ / 釧路のメガソーラーは最終的に誰が所有するのか？ \n02:22:05　締め挨拶\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/WWW4FEqa9gY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/WWW4FEqa9gY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/WWW4FEqa9gY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/WWW4FEqa9gY/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/WWW4FEqa9gY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H26M31S"
     }
   }
 ]
