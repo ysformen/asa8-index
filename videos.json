@@ -38,6 +38,44 @@
     }
   },
   {
+    "id": "3PpHoctO85c",
+    "snippet": {
+      "title": "R8 4/14 百田尚樹・有本香のニュース生放送　あさ8時！ 第818回",
+      "publishedAt": "2026-04-12T11:23:58Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3PpHoctO85c/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3PpHoctO85c/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3PpHoctO85c/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3PpHoctO85c/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3PpHoctO85c/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "4MLc2Ugz7K8",
     "snippet": {
       "title": "R8 4/10【ゲスト：島田 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第816回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H43M35S"
-    }
-  },
-  {
-    "id": "V8DFJGHxkjI",
-    "snippet": {
-      "title": "R7 12/16 百田尚樹・有本香のニュース生放送　あさ8時！ 第751回",
-      "publishedAt": "2025-12-16T01:54:10Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:04　番組開始\n00:02:16　ニュース一覧\n00:06:01　小池都知事が政府・与党の税収再配分案に猛反発\n00:19:01　NPO法人「フローレンス」違反担保で5000万円「目的外」利用も\n01:05:19　日系企業に広がる懸念　中国事業「撤退進む」\n01:18:44　藤沢市議会 ｢モスク反対｣本会議に陳情　相次ぎ不了承\n01:21:17　土葬墓地計画 議会で「火葬のみ」条例請願を不採択　日出町\n01:29:34　維新・吉村代表「茶番劇」議員定数削減法案の成立困難\n01:38:24　中ロ両軍の爆撃機が東京方面へ向かう「異例のルート」を共同飛行\n01:44:01　締め挨拶\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/V8DFJGHxkjI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/V8DFJGHxkjI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/V8DFJGHxkjI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/V8DFJGHxkjI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/V8DFJGHxkjI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H48M21S"
     }
   }
 ]
