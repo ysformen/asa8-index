@@ -152,6 +152,44 @@
     }
   },
   {
+    "id": "vXDEyjorAA0",
+    "snippet": {
+      "title": "R8 4/8 百田尚樹・有本香のニュース生放送　あさ8時！ 第814回",
+      "publishedAt": "2026-04-08T02:03:44Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vXDEyjorAA0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vXDEyjorAA0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vXDEyjorAA0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vXDEyjorAA0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vXDEyjorAA0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H50M52S"
+    }
+  },
+  {
     "id": "yrIWge-mw9E",
     "snippet": {
       "title": "R8 4/7 百田尚樹・有本香のニュース生放送　あさ8時！ 第813回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H48M5S"
-    }
-  },
-  {
-    "id": "AuDYZUo3Dl0",
-    "snippet": {
-      "title": "R7 12/19【ゲスト：島田 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第754回",
-      "publishedAt": "2025-12-19T02:33:19Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:09　番組開始\n00:51:18　ニュース一覧\n00:53:06　玉木氏、予算成立に協力「年収の壁」178万円合意\n01:09:42　アメリカ議会で日本支持・中国批判の動き\n01:20:51　トランプ政権　台湾に100億ドル規模の武器を売却へ\n01:32:01　茨城県の日本語学校で結核の集団感染発生　外国籍生徒ら18人\n01:41:48　「白タク」摘発、最多113件　訪日客急増、不法利益の温床\n02:02:38　山上被告に無期求刑　安倍氏銃撃・奈良地裁\n02:19:18　締め挨拶\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/AuDYZUo3Dl0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/AuDYZUo3Dl0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/AuDYZUo3Dl0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/AuDYZUo3Dl0/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/AuDYZUo3Dl0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H26M28S"
     }
   }
 ]
