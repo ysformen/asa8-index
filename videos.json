@@ -76,6 +76,44 @@
     }
   },
   {
+    "id": "OS8JXBjnxTY",
+    "snippet": {
+      "title": "R8 4/15 百田尚樹・有本香のニュース生放送　あさ8時！ 第819回",
+      "publishedAt": "2026-04-12T11:27:47Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OS8JXBjnxTY/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OS8JXBjnxTY/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OS8JXBjnxTY/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OS8JXBjnxTY/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OS8JXBjnxTY/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "4MLc2Ugz7K8",
     "snippet": {
       "title": "R8 4/10【ゲスト：島田 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第816回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H44M45S"
-    }
-  },
-  {
-    "id": "WbaQz1XCbnk",
-    "snippet": {
-      "title": "R7 12/23 百田尚樹・有本香のニュース生放送　あさ8時！ 第756回",
-      "publishedAt": "2025-12-23T01:52:51Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:01:04　番組開始\n00:23:21　ニュース一覧\n00:25:36　ニホンアマガエルの腸内細菌からがん治療細菌を発見\n00:45:38　国民・参政・日本保守「5類型限定」撤廃に賛成　防衛装備輸出\n01:03:55　岡田克也氏『2度と言わない』くらいは言わないと」 \n01:18:59　日本の「移民大国化」が止まらない\"永住型の労働移民は世界3位\"\n01:23:21　京都の宿泊費が2万円から3000円台に“暴落” \n01:45:36　締め挨拶\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/WbaQz1XCbnk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/WbaQz1XCbnk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/WbaQz1XCbnk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/WbaQz1XCbnk/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/WbaQz1XCbnk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H48M5S"
     }
   }
 ]
