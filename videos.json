@@ -152,6 +152,44 @@
     }
   },
   {
+    "id": "POHvnhneNHI",
+    "snippet": {
+      "title": "R8 4/17 百田尚樹・有本香のニュース生放送　あさ8時！ 第821回",
+      "publishedAt": "2026-04-12T11:30:54Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/POHvnhneNHI/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/POHvnhneNHI/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/POHvnhneNHI/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/POHvnhneNHI/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/POHvnhneNHI/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "4MLc2Ugz7K8",
     "snippet": {
       "title": "R8 4/10【ゲスト：島田 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第816回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT2H28M3S"
-    }
-  },
-  {
-    "id": "2oWLqBDQdWM",
-    "snippet": {
-      "title": "R7 12/24 百田尚樹・有本香のニュース生放送　あさ8時！ 第757回",
-      "publishedAt": "2025-12-24T01:51:09Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:18　番組開始\n00:04:55　ニュース一覧\n00:08:36　福井県議福井市選挙区補選に保守党から大坂幸太郎氏&日本保守党、衆院愛知4区に新人　笠松正憲氏\n00:21:45　国民健康保険料の支払い逃れか、維新が所属議員と首長に実態調査\n00:33:28　朝倉市両議会で外国法人による土地取得制限意見書を可決\n00:47:55　外国人労働者の受け入れ、28年度末までに123万人の上限案\n01:17:23　立民・岡田氏「国民感情コントロール」発言が波紋　百田氏も言及\n01:23:08　1人あたり名目GDP、スペインに抜かれOECD24位　24年度\n01:38:26　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2oWLqBDQdWM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2oWLqBDQdWM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2oWLqBDQdWM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/2oWLqBDQdWM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/2oWLqBDQdWM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H44M45S"
     }
   }
 ]
