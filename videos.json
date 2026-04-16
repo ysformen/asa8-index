@@ -1,5 +1,43 @@
 [
   {
+    "id": "hFCuohAEpBs",
+    "snippet": {
+      "title": "R8 4/16【ゲスト：小坂 英二】百田尚樹・有本香のニュース生放送　あさ8時！ 第820回",
+      "publishedAt": "2026-04-16T02:10:34Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hFCuohAEpBs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hFCuohAEpBs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hFCuohAEpBs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hFCuohAEpBs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hFCuohAEpBs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT2H3M30S"
+    }
+  },
+  {
     "id": "OS8JXBjnxTY",
     "snippet": {
       "title": "R8 4/15 百田尚樹・有本香のニュース生放送　あさ8時！ 第819回",
@@ -111,44 +149,6 @@
     },
     "contentDetails": {
       "duration": "PT2H30M30S"
-    }
-  },
-  {
-    "id": "hFCuohAEpBs",
-    "snippet": {
-      "title": "R8 4/16【ゲスト：小坂 英二】百田尚樹・有本香のニュース生放送　あさ8時！ 第820回",
-      "publishedAt": "2026-04-12T11:30:14Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hFCuohAEpBs/default_live.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hFCuohAEpBs/mqdefault_live.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hFCuohAEpBs/hqdefault_live.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/hFCuohAEpBs/sddefault_live.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/hFCuohAEpBs/maxresdefault_live.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "P0D"
     }
   },
   {
