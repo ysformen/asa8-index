@@ -1,5 +1,43 @@
 [
   {
+    "id": "5WlndaqSPaU",
+    "snippet": {
+      "title": "R8 4/20 百田尚樹・有本香のニュース生放送　あさ8時！ 第821回",
+      "publishedAt": "2026-04-19T15:19:03Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5WlndaqSPaU/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5WlndaqSPaU/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5WlndaqSPaU/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5WlndaqSPaU/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5WlndaqSPaU/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "POHvnhneNHI",
     "snippet": {
       "title": "R8 4/17 百田尚樹・有本香のニュース生放送　あさ8時！ 第821回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H29M14S"
-    }
-  },
-  {
-    "id": "wt9y8M2nMmc",
-    "snippet": {
-      "title": "R7 12/25【ゲスト：島田 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第758回",
-      "publishedAt": "2025-12-25T02:38:06Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:07　番組開始\n01:00:41　ニュース一覧\n01:02:55　島田洋一氏「自由主義圏は声を」香港紙リンゴ日報創業者に有罪判決\n01:19:11　三重県が外国籍の県職員採用の取りやめを検討　\n01:37:55　高市内閣76.0%で微増、自民党支持30%目前に回復\n02:24:35　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/wt9y8M2nMmc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/wt9y8M2nMmc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/wt9y8M2nMmc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/wt9y8M2nMmc/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/wt9y8M2nMmc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H28M3S"
     }
   }
 ]
