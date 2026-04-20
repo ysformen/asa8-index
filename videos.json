@@ -1,5 +1,43 @@
 [
   {
+    "id": "Wbw2qcLJgtc",
+    "snippet": {
+      "title": "R8 4/21【ゲスト：小野寺 まさる】百田尚樹・有本香のニュース生放送　あさ8時！ 第822回",
+      "publishedAt": "2026-04-20T17:01:07Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Wbw2qcLJgtc/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Wbw2qcLJgtc/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Wbw2qcLJgtc/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Wbw2qcLJgtc/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Wbw2qcLJgtc/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "5WlndaqSPaU",
     "snippet": {
       "title": "R8 4/20 百田尚樹・有本香のニュース生放送　あさ8時！ 第821回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT2H25M12S"
-    }
-  },
-  {
-    "id": "viN9MY3W6p8",
-    "snippet": {
-      "title": "R7 12/26 百田尚樹・有本香のニュース生放送　あさ8時！ 第759回",
-      "publishedAt": "2025-12-26T01:33:59Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:08　番組開始\n00:06:02　ニュース一覧\n00:09:15　「スパイ呼ばわり」立民・岡田氏、ネット情報に法的対応も　\n00:55:16　「ありがとう中国　もう来ないで」静岡大教授X投稿が波紋\n00:59:07　鈴木宗男議員がﾛｼｱへ　ｳｸﾗｲﾅ侵攻の停戦に向け意見交換\n01:09:06　維新の社保改革は「道半ば」、予算案への反映は限定的\n01:25:47　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/viN9MY3W6p8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/viN9MY3W6p8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/viN9MY3W6p8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/viN9MY3W6p8/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/viN9MY3W6p8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H29M14S"
     }
   }
 ]
