@@ -1,5 +1,43 @@
 [
   {
+    "id": "2NITKV1KdVg",
+    "snippet": {
+      "title": "R8 4/23 百田尚樹・有本香のニュース生放送　あさ8時！ 第824回",
+      "publishedAt": "2026-04-22T22:06:39Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2NITKV1KdVg/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2NITKV1KdVg/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2NITKV1KdVg/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2NITKV1KdVg/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2NITKV1KdVg/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "BWUKlbm8ZiA",
     "snippet": {
       "title": "R8 4/22 百田尚樹・有本香のニュース生放送　あさ8時！ 第823回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT2H12M34S"
-    }
-  },
-  {
-    "id": "I5Vl1qaSB3o",
-    "snippet": {
-      "title": "R8 1/8 百田尚樹・有本香のニュース生放送　あさ8時！ 第763回",
-      "publishedAt": "2026-01-08T01:37:28Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:01:15　番組開始\n00:03:33　ニュース一覧\n00:04:57　日本保守党　衆議院選挙の候補予定者を発表　\n00:17:30　維新、国保逃れで処分へ　地方議員４人、法人から低額報酬　\n00:25:48　東シナ海のガス田で中国が新たな試掘か　日本政府抗議\n00:40:43　外国人高齢者23万人10年で1・5倍　国民年金納付49％\n00:53:59　蕨市は中国人・ベトナム人らが多く無職・職業不詳が存在\n01:28:09　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/I5Vl1qaSB3o/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/I5Vl1qaSB3o/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/I5Vl1qaSB3o/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/I5Vl1qaSB3o/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/I5Vl1qaSB3o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H31M11S"
     }
   }
 ]
