@@ -1,5 +1,43 @@
 [
   {
+    "id": "OEiWgreCD3U",
+    "snippet": {
+      "title": "R8 4/30百田尚樹・有本香のニュース生放送　あさ8時！ 第829回",
+      "publishedAt": "2026-04-29T19:49:35Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OEiWgreCD3U/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OEiWgreCD3U/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OEiWgreCD3U/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OEiWgreCD3U/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OEiWgreCD3U/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "Dnm9ELrr_UQ",
     "snippet": {
       "title": "R8 4/29 百田尚樹・有本香のニュース生放送　あさ8時！ 第828回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT2H19M35S"
-    }
-  },
-  {
-    "id": "S3uVrKodacI",
-    "snippet": {
-      "title": "R8 1/12【ゲスト：島田 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第765回",
-      "publishedAt": "2026-01-12T02:49:02Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:01:51　番組開始\n00:36:55　ニュース一覧\n00:38:40　桜井康統弁護士 日本保守党に虚偽告発\n00:51:18　政府与党の一部に月内解散案　総務省が選管に緊急通知 / 保守党・百田代表「選挙やりすぎやろ」日曜討論で\n01:36:45　イラン抗議デモ、発生2週間　116人死亡か / ｲﾗﾝ政府への抗議「支援の準備できている」ﾄﾗﾝﾌﾟ氏がSNS投稿\n02:31:03　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/S3uVrKodacI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/S3uVrKodacI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/S3uVrKodacI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/S3uVrKodacI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/S3uVrKodacI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H42M14S"
     }
   }
 ]
