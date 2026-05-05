@@ -38,6 +38,44 @@
     }
   },
   {
+    "id": "GxlxLJoaVYw",
+    "snippet": {
+      "title": "R8 5/6 百田尚樹・有本香のニュース生放送　あさ8時！ 第833回",
+      "publishedAt": "2026-05-04T23:48:55Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GxlxLJoaVYw/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GxlxLJoaVYw/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GxlxLJoaVYw/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GxlxLJoaVYw/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GxlxLJoaVYw/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "gi0Q5GBnbzY",
     "snippet": {
       "title": "R8 5/4 百田尚樹・有本香のニュース生放送　あさ8時！ 第831回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H41M17S"
-    }
-  },
-  {
-    "id": "rj-FWCJrGhI",
-    "snippet": {
-      "title": "R8 1/20 百田尚樹・有本香のニュース生放送　あさ8時！ 第771回",
-      "publishedAt": "2026-01-20T01:59:36Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:18　番組開始\n00:42:24　ニュース一覧\n00:46:19　百田尚樹氏、中道めぐる“大予想”「衆院選が終わって２年以内に」\n01:22:26　高市首相 飲食料品の消費税率ゼロにSNSツッコミ\n01:32:51　中道の綱領、生活者ファースト掲げる 社会保障など五つの柱\n01:35:24　シャブ玉5万錠、アヘン10キロ「イラン人グループ」大量密造\n01:49:22　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/rj-FWCJrGhI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/rj-FWCJrGhI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/rj-FWCJrGhI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/rj-FWCJrGhI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/rj-FWCJrGhI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H54M17S"
     }
   }
 ]
