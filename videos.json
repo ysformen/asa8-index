@@ -76,6 +76,44 @@
     }
   },
   {
+    "id": "_xXGjI-5gag",
+    "snippet": {
+      "title": "R8 5/7 百田尚樹・有本香のニュース生放送　あさ8時！ 第834回",
+      "publishedAt": "2026-05-04T23:56:32Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_xXGjI-5gag/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_xXGjI-5gag/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_xXGjI-5gag/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_xXGjI-5gag/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_xXGjI-5gag/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "gi0Q5GBnbzY",
     "snippet": {
       "title": "R8 5/4 百田尚樹・有本香のニュース生放送　あさ8時！ 第831回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H52M32S"
-    }
-  },
-  {
-    "id": "xNzo_cWFcPo",
-    "snippet": {
-      "title": "R8 1/22【ゲスト：武田 邦彦】百田尚樹・有本香のニュース生放送　あさ8時！ 第772回",
-      "publishedAt": "2026-01-22T01:45:57Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:36　番組開始\n00:25:25　ニュース一覧\n00:34:55　大規模な太陽フレアが発生　GPSや通信に影響恐れ\n00:45:10　保守党の公約　酒類含め食料品の消費税「恒久的にゼロ」\n01:01:55　野田代表「私は逃げません」宣言に「消費税上げたの誰？」\n01:24:55　万博後に転用予定のEVバス150台、安全性に疑義「塩漬け」に\n01:39:07　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xNzo_cWFcPo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xNzo_cWFcPo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xNzo_cWFcPo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/xNzo_cWFcPo/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/xNzo_cWFcPo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H41M17S"
     }
   }
 ]
