@@ -190,6 +190,44 @@
     }
   },
   {
+    "id": "kappzjaqPMw",
+    "snippet": {
+      "title": "R8 5/5【ゲスト：森 けんたろう】百田尚樹・有本香のニュース生放送　あさ8時！ 第832回",
+      "publishedAt": "2026-05-05T02:14:09Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:08　番組開始\n00:22:48　ニュース一覧\n00:24:49　消費税「時間が短縮なら1％でも」47％　 JNN世論調査\n00:35:15　世界獣医師会長の蔵内勇夫・福岡県議会議長 日本人で初の就任 / パーティー券購入問題、福岡県の「部課長会」や積立金利用廃止を検討\n01:53:03　大阪にギャンブル依存症対策センター、IR開業見すえ\n01:55:50　アパ―トで立てこもり　ブラジル国籍の男を確保　愛知県\n01:57:33　外国人経営者、5%「廃業検討」在留資格「経営・管理」の厳格化で\n02:05:52　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kappzjaqPMw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kappzjaqPMw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kappzjaqPMw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kappzjaqPMw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kappzjaqPMw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT2H8M46S"
+    }
+  },
+  {
     "id": "gi0Q5GBnbzY",
     "snippet": {
       "title": "R8 5/4 百田尚樹・有本香のニュース生放送　あさ8時！ 第831回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H41M17S"
-    }
-  },
-  {
-    "id": "rj-FWCJrGhI",
-    "snippet": {
-      "title": "R8 1/20 百田尚樹・有本香のニュース生放送　あさ8時！ 第771回",
-      "publishedAt": "2026-01-20T01:59:36Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:18　番組開始\n00:42:24　ニュース一覧\n00:46:19　百田尚樹氏、中道めぐる“大予想”「衆院選が終わって２年以内に」\n01:22:26　高市首相 飲食料品の消費税率ゼロにSNSツッコミ\n01:32:51　中道の綱領、生活者ファースト掲げる 社会保障など五つの柱\n01:35:24　シャブ玉5万錠、アヘン10キロ「イラン人グループ」大量密造\n01:49:22　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/rj-FWCJrGhI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/rj-FWCJrGhI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/rj-FWCJrGhI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/rj-FWCJrGhI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/rj-FWCJrGhI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H54M17S"
     }
   }
 ]
