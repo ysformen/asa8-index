@@ -152,6 +152,44 @@
     }
   },
   {
+    "id": "3BoMq4WURmU",
+    "snippet": {
+      "title": "R8 5/8【ゲスト：宮沢 孝幸】百田尚樹・有本香のニュース生放送　あさ8時！ 第835回",
+      "publishedAt": "2026-05-08T00:32:11Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:27　番組開始\n00:43:46　ニュース一覧\n00:46:50　「ハンタウイルス」特効薬なし　WHOが冷静対応呼びかけ\n00:53:22　中国の主要大学が日本への交換留学生派遣を停止\n00:56:52　おもちゃの拳銃で現金200万円奪う ベトナム国籍の男逮捕\n01:01:11　英 亡命希望者に「同性愛を装うよう指示」の移民アドバイザー逮捕\n01:08:23　皇室“養子縁組”認める案を提示　中道、安定的な皇位継承を議論\n01:17:59　外食「特定技能」受け入れ停止　上限到達、人手不足に拍車\n01:24:55　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3BoMq4WURmU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3BoMq4WURmU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3BoMq4WURmU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3BoMq4WURmU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3BoMq4WURmU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H28M52S"
+    }
+  },
+  {
     "id": "_xXGjI-5gag",
     "snippet": {
       "title": "R8 5/7 百田尚樹・有本香のニュース生放送　あさ8時！ 第834回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT21M58S"
-    }
-  },
-  {
-    "id": "A6Pi2nwdC9I",
-    "snippet": {
-      "title": "R8 1/23 百田尚樹・有本香のニュース生放送　あさ8時！ 第773回",
-      "publishedAt": "2026-01-23T00:57:06Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:18　番組開始\n00:11:49　ニュース一覧\n00:13:56　衆院選三重３区 元四日市市議の伊藤昌志氏が出馬へ 日本保守党公認\n00:21:18　移民の財政上の貢献「出身地で差」論争呼ぶオランダ発の論文\n00:57:59　自民、裏金関係37人擁立　1次公認の計284人決定\n01:09:46　糸島で進むモスク建設計画「市はもう許可したんですか」　\n01:47:53　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/A6Pi2nwdC9I/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/A6Pi2nwdC9I/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/A6Pi2nwdC9I/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/A6Pi2nwdC9I/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/A6Pi2nwdC9I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H52M32S"
     }
   }
 ]
