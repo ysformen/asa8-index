@@ -114,6 +114,44 @@
     }
   },
   {
+    "id": "ALCiKZUxALs",
+    "snippet": {
+      "title": "R8 5/18 百田尚樹・有本香のニュース生放送　あさ8時！ 第840回",
+      "publishedAt": "2026-05-11T11:09:59Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ALCiKZUxALs/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ALCiKZUxALs/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ALCiKZUxALs/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ALCiKZUxALs/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ALCiKZUxALs/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "P_gXrHNAPZw",
     "snippet": {
       "title": "R8 5/11 百田尚樹・有本香のニュース生放送　あさ8時！ 第836回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT21M58S"
-    }
-  },
-  {
-    "id": "A6Pi2nwdC9I",
-    "snippet": {
-      "title": "R8 1/23 百田尚樹・有本香のニュース生放送　あさ8時！ 第773回",
-      "publishedAt": "2026-01-23T00:57:06Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:18　番組開始\n00:11:49　ニュース一覧\n00:13:56　衆院選三重３区 元四日市市議の伊藤昌志氏が出馬へ 日本保守党公認\n00:21:18　移民の財政上の貢献「出身地で差」論争呼ぶオランダ発の論文\n00:57:59　自民、裏金関係37人擁立　1次公認の計284人決定\n01:09:46　糸島で進むモスク建設計画「市はもう許可したんですか」　\n01:47:53　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/A6Pi2nwdC9I/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/A6Pi2nwdC9I/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/A6Pi2nwdC9I/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/A6Pi2nwdC9I/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/A6Pi2nwdC9I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H52M32S"
     }
   }
 ]
