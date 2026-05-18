@@ -1,5 +1,43 @@
 [
   {
+    "id": "WlF8QgFHEBc",
+    "snippet": {
+      "title": "R8 5/19 百田尚樹・有本香のニュース生放送　あさ8時！ 第841回",
+      "publishedAt": "2026-05-18T16:12:32Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WlF8QgFHEBc/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WlF8QgFHEBc/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WlF8QgFHEBc/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WlF8QgFHEBc/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WlF8QgFHEBc/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "ALCiKZUxALs",
     "snippet": {
       "title": "R8 5/18 百田尚樹・有本香のニュース生放送　あさ8時！ 第840回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT59M14S"
-    }
-  },
-  {
-    "id": "ZvHX-48EW4E",
-    "snippet": {
-      "title": "ニュースあさ8時! がライブ配信中！",
-      "publishedAt": "2026-01-26T02:17:27Z",
-      "description": "",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZvHX-48EW4E/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZvHX-48EW4E/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZvHX-48EW4E/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ZvHX-48EW4E/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ZvHX-48EW4E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT21M58S"
     }
   }
 ]
