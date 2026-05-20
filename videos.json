@@ -38,6 +38,44 @@
     }
   },
   {
+    "id": "5Ef3h-C8U34",
+    "snippet": {
+      "title": "R8 5/21 百田尚樹・有本香のニュース生放送　あさ8時！ 第843回",
+      "publishedAt": "2026-05-19T18:09:27Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5Ef3h-C8U34/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5Ef3h-C8U34/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5Ef3h-C8U34/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5Ef3h-C8U34/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5Ef3h-C8U34/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "WlF8QgFHEBc",
     "snippet": {
       "title": "R8 5/19【ゲスト：森 けんたろう】百田尚樹・有本香のニュース生放送　あさ8時！ 第841回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H11M54S"
-    }
-  },
-  {
-    "id": "ZLhd8A9nygA",
-    "snippet": {
-      "title": "R8 1/29 百田尚樹・有本香のニュース生放送　あさ8(よる8)時！ 第775回",
-      "publishedAt": "2026-01-29T12:30:14Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:01:40　番組開始\n00:14:58　ニュース一覧\n00:17:19　衆院選大分3区　自民・岩屋毅氏の牙城に新人4人が挑む\n00:42:29　在外投票始まる、有権者10万人　外国人政策に関心\n00:49:22　SNS上の関心「消費税」「物価高」Ｘ投稿分析「外国人」も多く\n00:56:47　民泊運営会社を書類送検 民泊新法違反の疑いで書類送検は全国初\n01:05:37　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZLhd8A9nygA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZLhd8A9nygA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZLhd8A9nygA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ZLhd8A9nygA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ZLhd8A9nygA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H7M59S"
     }
   }
 ]
