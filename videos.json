@@ -304,44 +304,6 @@
     }
   },
   {
-    "id": "yL_cP1tRmB8",
-    "snippet": {
-      "title": "R8 5/14 百田尚樹・有本香のニュース生放送　あさ8時！ 第838回",
-      "publishedAt": "2026-05-14T02:22:09Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:38　番組開始\n00:03:45　ニュース一覧\n00:05:37　カリフォルニア州の市長、中国の工作員容疑　辞任\n00:25:12　社名を「いよぎん株主阿鼻叫喚ホールディングス」に…株主提案へ\n01:38:11　男女以外認めない戸籍表記「憲法14条に抵触」大阪高裁\n02:16:12　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yL_cP1tRmB8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yL_cP1tRmB8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yL_cP1tRmB8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/yL_cP1tRmB8/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/yL_cP1tRmB8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H17M59S"
-    }
-  },
-  {
     "id": "FkhVuL7TWzs",
     "snippet": {
       "title": "R8 5/12 百田尚樹・有本香のニュース生放送　あさ8時！ 第837回",
@@ -1897,6 +1859,44 @@
     },
     "contentDetails": {
       "duration": "PT1H52M30S"
+    }
+  },
+  {
+    "id": "fmEo1Aw4lUQ",
+    "snippet": {
+      "title": "R8 2/18 百田尚樹・有本香のニュース生放送　あさ8時！ 第783回",
+      "publishedAt": "2026-02-18T01:36:24Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fmEo1Aw4lUQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fmEo1Aw4lUQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fmEo1Aw4lUQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fmEo1Aw4lUQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fmEo1Aw4lUQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H26M31S"
     }
   }
 ]
