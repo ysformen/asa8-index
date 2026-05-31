@@ -190,44 +190,6 @@
     }
   },
   {
-    "id": "1CPPEjeigAM",
-    "snippet": {
-      "title": "R8 5/25【ゲスト：センキョタイムズ】百田尚樹・有本香のニュース生放送　あさ8時！ 第844回",
-      "publishedAt": "2026-05-25T01:27:04Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:08　番組開始\n00:01:06　ニュース一覧\n00:08:38　福岡県議会が取材制限検討　パーティー券や海外視察報道など背景か\n00:55:02　税控除見送り、現金給付に一本化　政府、実務複雑で効率優先\n01:05:05　フェンタニル密輸「日本が経由地」米麻薬取締局高官が認める\n01:12:24　皇室典範改正へ最終局面か　麻生副総裁「取りまとめ段階」\n01:15:28　埼玉で赤ちゃんの遺体放置疑い　インドネシア国籍の女逮捕\n01:19:49　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1CPPEjeigAM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1CPPEjeigAM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1CPPEjeigAM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/1CPPEjeigAM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/1CPPEjeigAM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H22M14S"
-    }
-  },
-  {
     "id": "5Ef3h-C8U34",
     "snippet": {
       "title": "R8 5/21【ゲスト：森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第843回",
@@ -1897,6 +1859,44 @@
     },
     "contentDetails": {
       "duration": "PT1H52M30S"
+    }
+  },
+  {
+    "id": "fmEo1Aw4lUQ",
+    "snippet": {
+      "title": "R8 2/18 百田尚樹・有本香のニュース生放送　あさ8時！ 第783回",
+      "publishedAt": "2026-02-18T01:36:24Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fmEo1Aw4lUQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fmEo1Aw4lUQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fmEo1Aw4lUQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fmEo1Aw4lUQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fmEo1Aw4lUQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H26M31S"
     }
   }
 ]
