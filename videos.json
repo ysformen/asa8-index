@@ -1,5 +1,43 @@
 [
   {
+    "id": "UoiQZTQrJB0",
+    "snippet": {
+      "title": "R8 6/8 百田尚樹・有本香のニュース生放送　あさ8時！ 第854回",
+      "publishedAt": "2026-06-08T01:25:39Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UoiQZTQrJB0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UoiQZTQrJB0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UoiQZTQrJB0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UoiQZTQrJB0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UoiQZTQrJB0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H20M57S"
+    }
+  },
+  {
     "id": "QzBV47381w8",
     "snippet": {
       "title": "R8 6/5 【ゲスト：高橋 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第853回",
@@ -149,44 +187,6 @@
     },
     "contentDetails": {
       "duration": "PT1H31M57S"
-    }
-  },
-  {
-    "id": "0-dElvDHSVs",
-    "snippet": {
-      "title": "R8 6/1【ゲスト：北村 晴男】百田尚樹・有本香のニュース生放送　あさ8時！ 第849回",
-      "publishedAt": "2026-06-01T02:14:00Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:40　番組開始\n00:03:47　ニュース一覧\n00:45:37　中道・笠氏「女性天皇の是非含めて議論を」会議の議事録公表\n01:17:46　福岡県議会の取材制限撤回　議長「白紙に戻す」\n01:39:51　犯罪被害者に二重の苦しみ、賠償金未払い解消進まず\n02:07:12　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/0-dElvDHSVs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/0-dElvDHSVs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/0-dElvDHSVs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/0-dElvDHSVs/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/0-dElvDHSVs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H9M4S"
     }
   },
   {
