@@ -1,5 +1,43 @@
 [
   {
+    "id": "38Kk5KoLfkM",
+    "snippet": {
+      "title": "R8 6/12  百田尚樹・有本香のニュース生放送　あさ8時！ 第857回",
+      "publishedAt": "2026-06-11T14:08:36Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/38Kk5KoLfkM/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/38Kk5KoLfkM/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/38Kk5KoLfkM/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/38Kk5KoLfkM/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/38Kk5KoLfkM/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "XPGreanxSlI",
     "snippet": {
       "title": "R8 6/11 【ゲスト：島田 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第856回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT2H"
-    }
-  },
-  {
-    "id": "Pg7et3dS5os",
-    "snippet": {
-      "title": "R8 2/24 百田尚樹・有本香のニュース生放送　あさ8時！ 第786回",
-      "publishedAt": "2026-02-24T02:10:40Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:01:58　番組開始\n00:24:58　ニュース一覧\n00:30:13　消費減税「財源確保なければすべきではない」最多　毎日世論調査\n00:53:25　“最後のチャンス” アメリカとイランが26日に核協議へ　 \n01:13:09　「正社員足りない」企業52.3％　4年連続5割超え \n01:55:11　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Pg7et3dS5os/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Pg7et3dS5os/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Pg7et3dS5os/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Pg7et3dS5os/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Pg7et3dS5os/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H57M11S"
     }
   }
 ]
