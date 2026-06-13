@@ -494,44 +494,6 @@
     }
   },
   {
-    "id": "o8YZGckcE0E",
-    "snippet": {
-      "title": "R8 5/15【ゲスト：島田 洋一/森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第839回",
-      "publishedAt": "2026-05-15T01:12:24Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:13　番組開始\n00:02:01　ニュース一覧\n00:05:00　習近平氏、台湾問題は米中関係で「最重要問題」首脳会談で\n00:30:02　北村氏、虚偽の難民申請で「弁護士などの助言」有無聞き取り提案\n01:02:13　参政・神谷代表「法人税、少し上げてもいい」消費減税の代替財源\n01:19:57　立憲議員「国会議員の年金も復活すべき」→国会笑い\n01:31:56　SNSで名誉毀損容疑、中国人男逮捕　熱海市長選出馬表明で物議\n01:37:59　米陪審、NYで中国の「秘密警察署」運営した男に有罪評決\n01:51:53　国民民主との連立拡大「真剣に考えなければ」自民･松山参院会長\n02:05:33　締め挨拶\n\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/o8YZGckcE0E/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/o8YZGckcE0E/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/o8YZGckcE0E/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/o8YZGckcE0E/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/o8YZGckcE0E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H6M54S"
-    }
-  },
-  {
     "id": "yL_cP1tRmB8",
     "snippet": {
       "title": "R8 5/14 百田尚樹・有本香のニュース生放送　あさ8時！ 第838回",
@@ -1897,6 +1859,44 @@
     },
     "contentDetails": {
       "duration": "PT1H49M48S"
+    }
+  },
+  {
+    "id": "kLu0VilMYfk",
+    "snippet": {
+      "title": "R8 2/20 百田尚樹・有本香のニュース生放送　あさ8時！ 第784回",
+      "publishedAt": "2026-02-20T02:01:34Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:19　番組開始\n00:01:38　ニュース一覧\n00:17:34　大荒れ国会首相選挙 高市支援に回った野党有名２議員が判明\n01:16:17　性犯罪再犯クルド人男、2審で減刑　懲役8年→6年6月\n01:24:08　16歳少女の頭を道路に打ち付ける暴行 ブラジル国籍の男ら逮捕\n01:31:14　東京福祉大、改善指導対象校に 留学生の在籍管理「不適正」文科省\n01:47:50　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kLu0VilMYfk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kLu0VilMYfk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kLu0VilMYfk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kLu0VilMYfk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kLu0VilMYfk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H52M30S"
     }
   }
 ]
