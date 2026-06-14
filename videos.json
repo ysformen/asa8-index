@@ -114,44 +114,6 @@
     }
   },
   {
-    "id": "UoiQZTQrJB0",
-    "snippet": {
-      "title": "R8 6/8 百田尚樹・有本香のニュース生放送　あさ8時！ 第854回",
-      "publishedAt": "2026-06-08T01:25:39Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/UoiQZTQrJB0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/UoiQZTQrJB0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/UoiQZTQrJB0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/UoiQZTQrJB0/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/UoiQZTQrJB0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H20M57S"
-    }
-  },
-  {
     "id": "QzBV47381w8",
     "snippet": {
       "title": "R8 6/5 【ゲスト：高橋 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第853回",
@@ -1897,6 +1859,44 @@
     },
     "contentDetails": {
       "duration": "PT1H49M48S"
+    }
+  },
+  {
+    "id": "kLu0VilMYfk",
+    "snippet": {
+      "title": "R8 2/20 百田尚樹・有本香のニュース生放送　あさ8時！ 第784回",
+      "publishedAt": "2026-02-20T02:01:34Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:19　番組開始\n00:01:38　ニュース一覧\n00:17:34　大荒れ国会首相選挙 高市支援に回った野党有名２議員が判明\n01:16:17　性犯罪再犯クルド人男、2審で減刑　懲役8年→6年6月\n01:24:08　16歳少女の頭を道路に打ち付ける暴行 ブラジル国籍の男ら逮捕\n01:31:14　東京福祉大、改善指導対象校に 留学生の在籍管理「不適正」文科省\n01:47:50　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kLu0VilMYfk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kLu0VilMYfk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kLu0VilMYfk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kLu0VilMYfk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kLu0VilMYfk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H52M30S"
     }
   }
 ]
