@@ -1102,6 +1102,44 @@
     }
   },
   {
+    "id": "2NITKV1KdVg",
+    "snippet": {
+      "title": "R8 4/23 百田尚樹・有本香のニュース生放送　あさ8時！ 第825回",
+      "publishedAt": "2026-04-23T01:30:35Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:14　番組開始\n00:24:05　ニュース一覧\n00:29:44　外国人入居予定マンション白紙に　福岡・朝倉で建設計画\n00:37:30　靖国神社の例大祭妨害容疑で韓国人の男逮捕　\n00:50:50　イスラム教巡る投稿が「差別的」と問責決議　市川市議が提訴\n01:15:17　外食も消費税ゼロ、業界が要望 農家は資金繰り悪化懸念 \n01:21:45　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2NITKV1KdVg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2NITKV1KdVg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2NITKV1KdVg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2NITKV1KdVg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2NITKV1KdVg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H23M17S"
+    }
+  },
+  {
     "id": "5WlndaqSPaU",
     "snippet": {
       "title": "R8 4/20 百田尚樹・有本香のニュース生放送　あさ8時！ 第822回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H48M45S"
-    }
-  },
-  {
-    "id": "fVstctwwPhc",
-    "snippet": {
-      "title": "R8 3/3 百田尚樹・有本香のニュース生放送　あさ8時！ 第791回",
-      "publishedAt": "2026-03-03T01:54:57Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:09　番組開始\n00:24:28　ニュース一覧\n00:30:56　エスニック料理店が激減する？ビザ厳格化で\n00:36:15　市川市議「ｲｽﾗﾑ教徒が公園で礼拝する街は断じてごめん」で問責決議\n01:21:23　参院選で無効票水増し　公選法違反で大田区職員4人を書類送検\n01:36:05　英仏独首脳がイランに警告 報復攻撃停止を要請\n01:48:03　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/fVstctwwPhc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/fVstctwwPhc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/fVstctwwPhc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/fVstctwwPhc/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/fVstctwwPhc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H49M51S"
     }
   }
 ]
