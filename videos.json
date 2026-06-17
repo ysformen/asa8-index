@@ -76,6 +76,44 @@
     }
   },
   {
+    "id": "3qdwTutzLxE",
+    "snippet": {
+      "title": "R8 6/18 百田尚樹・有本香のニュース生放送　あさ8時！ 第860回",
+      "publishedAt": "2026-06-14T15:34:00Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3qdwTutzLxE/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3qdwTutzLxE/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3qdwTutzLxE/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3qdwTutzLxE/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3qdwTutzLxE/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "38Kk5KoLfkM",
     "snippet": {
       "title": "R8 6/12  【ゲスト：森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第857回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H49M51S"
-    }
-  },
-  {
-    "id": "qxQJs75y_bk",
-    "snippet": {
-      "title": "R8 2/27 百田尚樹・有本香のニュース生放送　あさ8時！ 第789回",
-      "publishedAt": "2026-02-27T02:08:36Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:27　番組開始\n00:05:08　ニュース一覧\n00:06:59　高市首相 特定技能2号は「受け入れ人数の上限は設定していない」\n00:53:00　入管法改正案、了承に至らず　事前の電子審査、自民部会\n00:58:46　去年の外国人運転者の交通事故は約7900件　過去15年間で最多\n01:10:14　野党はチームみらいだけ　看板倒れの国民会議\n01:22:09　出生数過去最少受け尾崎副長官「取り組みは成果を挙げているが…」\n01:58:03　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qxQJs75y_bk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qxQJs75y_bk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qxQJs75y_bk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/qxQJs75y_bk/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/qxQJs75y_bk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H"
     }
   }
 ]
