@@ -114,6 +114,44 @@
     }
   },
   {
+    "id": "GScJw4s-TO8",
+    "snippet": {
+      "title": "R8 6/19 百田尚樹・有本香のニュース生放送　あさ8時！ 第861回",
+      "publishedAt": "2026-06-14T15:34:25Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GScJw4s-TO8/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GScJw4s-TO8/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GScJw4s-TO8/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GScJw4s-TO8/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GScJw4s-TO8/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "38Kk5KoLfkM",
     "snippet": {
       "title": "R8 6/12  【ゲスト：森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第857回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT2H1M11S"
-    }
-  },
-  {
-    "id": "sq4L-VhrNdw",
-    "snippet": {
-      "title": "R8 3/6【ゲスト：高橋 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第794回",
-      "publishedAt": "2026-03-06T00:53:14Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:29　番組開始\n00:36:53　ニュース一覧\n00:39:00　「国民負担率」今年度は46.1％ 前年度を下回る見通し\n00:56:08　「国保逃れ」是正へ判定厳しく　年金機構に通知へ、維新で発覚\n01:13:00　雇調金詐取疑い、妻と中国籍の夫逮捕　6億5千万円不正受給か\n01:18:05　異例の「土曜日審議」に野党側反対　予算案年度内成立めぐり\n01:31:04　「台湾独立勢力に打撃を与える」習氏が全人代で初めて表明 / 中国　国防予算が7％増の約43兆4000億\n01:45:40　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/sq4L-VhrNdw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/sq4L-VhrNdw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/sq4L-VhrNdw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/sq4L-VhrNdw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/sq4L-VhrNdw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H48M45S"
     }
   }
 ]
