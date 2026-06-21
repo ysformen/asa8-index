@@ -114,6 +114,44 @@
     }
   },
   {
+    "id": "eqhOySh1z-A",
+    "snippet": {
+      "title": "R8 6/22 百田尚樹・有本香のニュース生放送　あさ8時！ 第862回",
+      "publishedAt": "2026-06-14T15:34:50Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eqhOySh1z-A/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eqhOySh1z-A/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eqhOySh1z-A/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eqhOySh1z-A/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eqhOySh1z-A/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "38Kk5KoLfkM",
     "snippet": {
       "title": "R8 6/12  【ゲスト：森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第857回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H48M45S"
-    }
-  },
-  {
-    "id": "fVstctwwPhc",
-    "snippet": {
-      "title": "R8 3/3 百田尚樹・有本香のニュース生放送　あさ8時！ 第791回",
-      "publishedAt": "2026-03-03T01:54:57Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:09　番組開始\n00:24:28　ニュース一覧\n00:30:56　エスニック料理店が激減する？ビザ厳格化で\n00:36:15　市川市議「ｲｽﾗﾑ教徒が公園で礼拝する街は断じてごめん」で問責決議\n01:21:23　参院選で無効票水増し　公選法違反で大田区職員4人を書類送検\n01:36:05　英仏独首脳がイランに警告 報復攻撃停止を要請\n01:48:03　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/fVstctwwPhc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/fVstctwwPhc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/fVstctwwPhc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/fVstctwwPhc/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/fVstctwwPhc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H49M51S"
     }
   }
 ]
