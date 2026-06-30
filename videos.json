@@ -114,44 +114,6 @@
     }
   },
   {
-    "id": "oFmioOEc16s",
-    "snippet": {
-      "title": "R8 6/24 百田尚樹・有本香のニュース生放送　あさ8時！ 第864回",
-      "publishedAt": "2026-06-24T01:42:16Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/oFmioOEc16s/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/oFmioOEc16s/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/oFmioOEc16s/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/oFmioOEc16s/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/oFmioOEc16s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H39M29S"
-    }
-  },
-  {
     "id": "Aatza4a-30U",
     "snippet": {
       "title": "R8 6/23【ゲスト：島田 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第863回",
@@ -1897,6 +1859,44 @@
     },
     "contentDetails": {
       "duration": "PT1H32M30S"
+    }
+  },
+  {
+    "id": "ygk4oUXuPD4",
+    "snippet": {
+      "title": "R8 3/10 百田尚樹・有本香のニュース生放送　あさ8時！ 第796回",
+      "publishedAt": "2026-03-10T02:00:06Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:13　番組開始\n00:27:18　ニュース一覧\n00:29:18　ガソリン1リットル200円超えの見通し　原油価格の急騰\n00:33:27　イラン、次期指導者選出で団結誇示 「モジタバに死を」と反発も\n00:57:41　独、再エネへの転換に逆風　コスト高・供給不安への対策重視\n01:12:35　高市内閣の支持率64.1% 政党支持率 保守党3.2％\n01:26:21　高市首相の「外国人政策」はおかしい「人手不足」とウソをつく\n01:34:30　衆院選で“二重投票”か　男逮捕　SNSで二重投票呼びかけも\n01:41:52　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ygk4oUXuPD4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ygk4oUXuPD4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ygk4oUXuPD4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ygk4oUXuPD4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ygk4oUXuPD4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H48M55S"
     }
   }
 ]
