@@ -1,5 +1,43 @@
 [
   {
+    "id": "Cr_eWFG80z4",
+    "snippet": {
+      "title": "R8 7/3 【ゲスト：高橋洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第870回",
+      "publishedAt": "2026-07-03T01:14:26Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/\n\n#糖尿病 #マンジャロ #ダイエット #痩せる",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Cr_eWFG80z4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Cr_eWFG80z4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Cr_eWFG80z4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Cr_eWFG80z4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Cr_eWFG80z4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT2H8M11S"
+    }
+  },
+  {
     "id": "Gj-TjtAUVT0",
     "snippet": {
       "title": "R8 7/2【ゲスト：森けんたろう】百田尚樹・有本香のニュース生放送　あさ8時！ 第869回",
@@ -111,44 +149,6 @@
     },
     "contentDetails": {
       "duration": "PT1H36M14S"
-    }
-  },
-  {
-    "id": "Cr_eWFG80z4",
-    "snippet": {
-      "title": "R8 7/3 【ゲスト：高橋洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第870回",
-      "publishedAt": "2026-06-29T17:51:43Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Cr_eWFG80z4/default_live.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Cr_eWFG80z4/mqdefault_live.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Cr_eWFG80z4/hqdefault_live.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Cr_eWFG80z4/sddefault_live.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Cr_eWFG80z4/maxresdefault_live.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "P0D"
     }
   },
   {
