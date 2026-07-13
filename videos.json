@@ -1672,44 +1672,6 @@
     }
   },
   {
-    "id": "Mx8y-dPvlJM",
-    "snippet": {
-      "title": "R8 3/25 百田尚樹・有本香のニュース生放送　あさ8時！ 第806回",
-      "publishedAt": "2026-03-25T01:13:38Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Mx8y-dPvlJM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Mx8y-dPvlJM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Mx8y-dPvlJM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Mx8y-dPvlJM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Mx8y-dPvlJM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H2M48S"
-    }
-  },
-  {
     "id": "1GtagEu8aGY",
     "snippet": {
       "title": "R8 3/24【ゲスト：織田 邦男】百田尚樹・有本香のニュース生放送　あさ8時！ 第805回",
@@ -1897,6 +1859,44 @@
     },
     "contentDetails": {
       "duration": "PT1H32M30S"
+    }
+  },
+  {
+    "id": "2XChtLsLKNA",
+    "snippet": {
+      "title": "R8 3/9 百田尚樹・有本香のニュース生放送　あさ8時！ 第795回",
+      "publishedAt": "2026-03-09T02:13:15Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:03:15　番組開始\n00:16:51　ニュース一覧\n00:19:15　「物価高対策にならない」自民党会合で消費減税に慎重論相次ぐ\n00:33:03　トランプ大統領、キューバは「間もなく崩壊」\n00:48:39　高市さん、新たな「悲願」を 若者に負の遺産残すな\n00:59:10　倉庫で集計漏れの投票用紙を発見 高知市選管\n01:03:12　ノリ不作で「栄養塩」規制緩和　東京湾と伊勢湾、環境省\n01:38:07　220万円を不正受給 韓国国籍の男逮捕 生活保護費でうそ\n01:40:58　移民政策厳格化、英が4カ国の学生ビザ停止へ 難民申請、偽装横行\n01:59:54　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2XChtLsLKNA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2XChtLsLKNA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2XChtLsLKNA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2XChtLsLKNA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2XChtLsLKNA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT2H1M11S"
     }
   }
 ]
