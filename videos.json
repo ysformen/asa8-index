@@ -38,6 +38,44 @@
     }
   },
   {
+    "id": "HmoQbbJlHf8",
+    "snippet": {
+      "title": "R8 7/15 【ゲスト：島田洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第878回",
+      "publishedAt": "2026-07-13T22:40:22Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HmoQbbJlHf8/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HmoQbbJlHf8/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HmoQbbJlHf8/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HmoQbbJlHf8/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HmoQbbJlHf8/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "ycjtFe565XQ",
     "snippet": {
       "title": "R8 7/13 【森けんたろう】百田尚樹・有本香のニュース生放送　あさ8時！ 第876回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT2H3M25S"
-    }
-  },
-  {
-    "id": "-_aKpAEK0Nk",
-    "snippet": {
-      "title": "R8 3/13【ゲスト：島田 洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第798回",
-      "publishedAt": "2026-03-13T02:09:37Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:02:53　番組開始\n00:12:29　ニュース一覧\n00:14:23　「再エネ比率が上がればｴﾈﾙｷﾞｰｺｽﾄも上がる」資源エネ調査会で\n00:42:47　ホルムズ海峡で船舶攻撃相次ぐ トランプ氏、安全強調 / 米、6日間で戦費1兆7千億円　イラン攻撃で\n01:07:07　英上院で世襲貴族の議員ゼロへ、法案可決 数百年の伝統に終止符\n01:19:38　特別永住の証明書を出させるのは「不当」りそな銀行に日弁連が指摘\n01:33:55　介護福祉士、特例を再延長　試験不合格留学生も勤務可\n01:40:25　「欧州の原発縮小 戦略的ミスだった」EU委員長\n02:01:45　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-_aKpAEK0Nk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-_aKpAEK0Nk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-_aKpAEK0Nk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/-_aKpAEK0Nk/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/-_aKpAEK0Nk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H4M19S"
     }
   }
 ]
