@@ -190,44 +190,6 @@
     }
   },
   {
-    "id": "3StOL_pClv8",
-    "snippet": {
-      "title": "R8 7/10 百田尚樹・有本香のニュース生放送　あさ8時！ 第875回",
-      "publishedAt": "2026-07-10T01:25:28Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n00:01:47 今日のニュースラインナップ\n00:05:40 経産委員会 電気事業法改正案\n00:15:35 ④れいわ・山本太郎代表が辞任の意向を表明\n00:45:40 ⑤皇室典範改正案 10日審議入り 衆院通過へ 中道は留保\n01:11:24 ②小池都政 幼稚園から外国を踏まえた多文化・多言語化教育へ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/3StOL_pClv8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/3StOL_pClv8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/3StOL_pClv8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/3StOL_pClv8/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/3StOL_pClv8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H18M56S"
-    }
-  },
-  {
     "id": "F_17uenWcN4",
     "snippet": {
       "title": "R8 7/8 【ゲスト：森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第873回",
@@ -1897,6 +1859,44 @@
     },
     "contentDetails": {
       "duration": "PT1H2M48S"
+    }
+  },
+  {
+    "id": "1GtagEu8aGY",
+    "snippet": {
+      "title": "R8 3/24【ゲスト：織田 邦男】百田尚樹・有本香のニュース生放送　あさ8時！ 第805回",
+      "publishedAt": "2026-03-24T02:11:52Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:53　番組開始\n00:30:08　ニュース一覧\n00:31:43　防大校長に吉田圭秀・前統幕長　異例の元制服組トップを起用\n00:51:34　トランプ大統領、発電所への攻撃を5日間延期\n01:30:54　米国連大使、ホルムズ海峡巡り「日本の首相が海上自衛隊の支援約束」 / イラン停戦後の自衛隊派遣に言及　茂木外相、機雷掃海で可能性\n02:01:52　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1GtagEu8aGY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1GtagEu8aGY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1GtagEu8aGY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1GtagEu8aGY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1GtagEu8aGY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT2H6M18S"
     }
   }
 ]
