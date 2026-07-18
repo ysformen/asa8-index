@@ -152,44 +152,6 @@
     }
   },
   {
-    "id": "ycjtFe565XQ",
-    "snippet": {
-      "title": "R8 7/13 【森けんたろう】百田尚樹・有本香のニュース生放送　あさ8時！ 第876回",
-      "publishedAt": "2026-07-13T01:10:14Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n00:05:51 福岡県添田町議会選挙結果報告\n00:08:42 今日のニュースラインナップ\n00:10:50 ⑤皇室典範改正案 今国会で成立の見通し\n00:19:28 ④川越、 無許可モスク問題化 所有者側に市が撤去求める\n00:28:23 ⑦「高度専門職」の中国人システムエンジニアが白タク容疑逮捕\n00:52:46 ゲスト：森けんたろう氏登場〜添田町議会選挙結果報告〜ワンヘルスの森\n01:08:08 ①福岡県議会の議長・副議長就任巡る金銭授受疑惑 証言者は4人\n                 ②福岡県 金銭授受疑惑、 服部県知事「わが耳と目を疑った」\n01:30:26 福岡政界の動き〜副首都構想\n\n#皇室典範改正案 #川越モスク #白タク #福岡県議会 #副首都構想\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ycjtFe565XQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ycjtFe565XQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ycjtFe565XQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ycjtFe565XQ/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ycjtFe565XQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H2M51S"
-    }
-  },
-  {
     "id": "3StOL_pClv8",
     "snippet": {
       "title": "R8 7/10 百田尚樹・有本香のニュース生放送　あさ8時！ 第875回",
@@ -1897,6 +1859,44 @@
     },
     "contentDetails": {
       "duration": "PT2H14M28S"
+    }
+  },
+  {
+    "id": "Mx8y-dPvlJM",
+    "snippet": {
+      "title": "R8 3/25 百田尚樹・有本香のニュース生放送　あさ8時！ 第806回",
+      "publishedAt": "2026-03-25T01:13:38Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Mx8y-dPvlJM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Mx8y-dPvlJM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Mx8y-dPvlJM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Mx8y-dPvlJM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Mx8y-dPvlJM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H2M48S"
     }
   }
 ]
