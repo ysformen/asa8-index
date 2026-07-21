@@ -152,44 +152,6 @@
     }
   },
   {
-    "id": "CHPYWUtjs8o",
-    "snippet": {
-      "title": "R8 7/16 百田尚樹・有本香のニュース生放送　あさ8時！ 第879回",
-      "publishedAt": "2026-07-16T00:24:00Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n00:02:00 今日のニュースラインナップ\n00:03:28 ①百田代表 「私が総理大臣なら政治生命を賭けてでも止める」\n00:31:26 ③アイヌ遺骨返還 「良かった」 高市首相、 施策推進に意欲\n00:43:38 ④最高はパリ 「22人で計5000万円」 費用を公表 福岡\n00:55:00 ②東京都が武蔵村山市にニューヨーク大学キャンパス誘致\n\n#皇室典範改正 #アイヌ #福岡県政の闇 #小池百合子 #ニューヨーク大学\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/CHPYWUtjs8o/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/CHPYWUtjs8o/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/CHPYWUtjs8o/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/CHPYWUtjs8o/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/CHPYWUtjs8o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H18M29S"
-    }
-  },
-  {
     "id": "VwooZW5gIjE",
     "snippet": {
       "title": "R8 7/14 【ゲスト：レテプ・アフメット】百田尚樹・有本香のニュース生放送　あさ8時！ 第877回",
@@ -1897,6 +1859,44 @@
     },
     "contentDetails": {
       "duration": "PT1H25M36S"
+    }
+  },
+  {
+    "id": "K_rakJAq3WU",
+    "snippet": {
+      "title": "R8 3/27 百田尚樹・有本香のニュース生放送　あさ8時！ 第807回",
+      "publishedAt": "2026-03-27T02:25:45Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:05:23　番組開始\n00:35:30　ニュース一覧\n00:37:58　外国人生活保護 北村議員の質問に 厚労省「人道上の観点から…」　\n00:46:31　保守・百田代表「ホルムズ海峡交渉で役に立てる」\n01:33:37　特定失踪者の木村かほるさん、平壌の商店で勤務か\n01:52:57　維新・遠藤国対委員長「ずっと寝ていたらいい」に野党反発\n02:11:26　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K_rakJAq3WU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K_rakJAq3WU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K_rakJAq3WU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/K_rakJAq3WU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/K_rakJAq3WU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT2H14M28S"
     }
   }
 ]
