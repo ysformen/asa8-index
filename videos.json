@@ -152,44 +152,6 @@
     }
   },
   {
-    "id": "kXHAjkMXlxI",
-    "snippet": {
-      "title": "R8 7/22 【ゲスト：森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第883回",
-      "publishedAt": "2026-07-22T02:24:39Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n00:01:10 衝撃1ドル163円\n00:21:40 今日のニュースラインナップ\n00:23:15 ①「0~3時間睡眠が常態化」高市首相のアピールに波紋\n00:50:56 ⑩東京圏人口が初の「全国3割超え」都心集中が進む\n01:24:02 ②中国外務省「沖ノ鳥島は岩礁」EEZ射撃訓練に日本が抗議\n01:50:17 ⑥「日本のルールは守らなくていい」 崩壊する在日中国人のモラル\n01:57:00 ⑦トルコ国籍の男「もう運転したくない」川口のバイク19歳死亡\n\n#円相場163円台 #高市首相 #睡眠不足 #首都圏人口集中\n#沖ノ鳥島 #中国外務省 #林剣 #岩じゃねーよ #移民はもういらん\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/kXHAjkMXlxI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/kXHAjkMXlxI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/kXHAjkMXlxI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/kXHAjkMXlxI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/kXHAjkMXlxI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H16M22S"
-    }
-  },
-  {
     "id": "mDsmF-n5Z6E",
     "snippet": {
       "title": "R8 7/21 百田尚樹・有本香のニュース生放送　あさ8時！ 第882回",
@@ -1897,6 +1859,44 @@
     },
     "contentDetails": {
       "duration": "PT2H26M58S"
+    }
+  },
+  {
+    "id": "i5_2LCJ7yQs",
+    "snippet": {
+      "title": "R8 3/30 百田尚樹・有本香のニュース生放送　あさ8時！ 第808回",
+      "publishedAt": "2026-03-30T00:32:54Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:01:15　番組開始\n00:14:05　ニュース一覧\n00:22:24　BYD、日本のEV補助金が15万円に半減　政府が国産電池支援で\n00:27:04　イランの原油積み出し拠点カーグ島占拠、米軍が検討と米紙報道\n01:23:17　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/i5_2LCJ7yQs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/i5_2LCJ7yQs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/i5_2LCJ7yQs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/i5_2LCJ7yQs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/i5_2LCJ7yQs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H25M36S"
     }
   }
 ]
