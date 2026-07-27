@@ -1,5 +1,43 @@
 [
   {
+    "id": "L8_IQ3ftDA8",
+    "snippet": {
+      "title": "R8 7/28 百田尚樹・有本香のニュース生放送　あさ8時！ 第887回",
+      "publishedAt": "2026-07-27T14:18:10Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L8_IQ3ftDA8/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L8_IQ3ftDA8/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L8_IQ3ftDA8/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/L8_IQ3ftDA8/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/L8_IQ3ftDA8/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "bSnFg0-2xEk",
     "snippet": {
       "title": "R8 7/27 百田尚樹・有本香のニュース生放送　あさ8時！ 第886回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT2H26M58S"
-    }
-  },
-  {
-    "id": "i5_2LCJ7yQs",
-    "snippet": {
-      "title": "R8 3/30 百田尚樹・有本香のニュース生放送　あさ8時！ 第808回",
-      "publishedAt": "2026-03-30T00:32:54Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:01:15　番組開始\n00:14:05　ニュース一覧\n00:22:24　BYD、日本のEV補助金が15万円に半減　政府が国産電池支援で\n00:27:04　イランの原油積み出し拠点カーグ島占拠、米軍が検討と米紙報道\n01:23:17　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/i5_2LCJ7yQs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/i5_2LCJ7yQs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/i5_2LCJ7yQs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/i5_2LCJ7yQs/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/i5_2LCJ7yQs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H25M36S"
     }
   }
 ]
