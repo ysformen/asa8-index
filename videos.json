@@ -1,5 +1,43 @@
 [
   {
+    "id": "cg6gp7eyG8I",
+    "snippet": {
+      "title": "R8 8/3 百田尚樹・有本香のニュース生放送　あさ8時！ 第890回",
+      "publishedAt": "2026-08-02T18:36:34Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cg6gp7eyG8I/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cg6gp7eyG8I/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cg6gp7eyG8I/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cg6gp7eyG8I/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cg6gp7eyG8I/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "uyKsz0GGJ-4",
     "snippet": {
       "title": "R8 7/31 【現地報告：森けんたろう/大河内元喜】百田尚樹・有本香のニュース生放送　あさ8時！ 第889回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H37M21S"
-    }
-  },
-  {
-    "id": "APsoYYYKjOc",
-    "snippet": {
-      "title": "R8 4/13【ゲスト：小野寺 まさる】百田尚樹・有本香のニュース生放送　あさ8時！ 第817回",
-      "publishedAt": "2026-04-13T01:37:39Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:01:00　番組開始\n00:31:36　ニュース一覧\n00:34:18　トランプ大統領「ホルムズ海峡に出入りする船舶に封鎖措置」\n00:37:18　アイヌ民族は先住民族「認識変わらず」黄川田担当相\n02:07:16　外国人住民が増加、四つの集合住宅の自治会・町内会が解散　愛知\n02:17:14　川に異変、クレソンが大繁殖　専門家が懸念するポイントは\n02:27:58　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/APsoYYYKjOc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/APsoYYYKjOc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/APsoYYYKjOc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/APsoYYYKjOc/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/APsoYYYKjOc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H30M30S"
     }
   }
 ]
