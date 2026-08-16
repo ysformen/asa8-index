@@ -190,44 +190,6 @@
     }
   },
   {
-    "id": "dfhAeSn8Zok",
-    "snippet": {
-      "title": "R8 8/10 百田尚樹・有本香のニュース生放送　あさ8時！ 第894回",
-      "publishedAt": "2026-08-10T01:57:56Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n00:04:51 今日のニュースラインナップ\n00:07:12 ①百田代表「知事よ、原爆を自然災害みたいに言うのはやめてほしい」\n00:38:23 ③全国知事会、外国人との共生社会に向け提言\n01:04:31 ④ファン付き作業服着用の50代男性、熱中症の疑いで死亡\n01:15:36 ⑤「外国人受け入れ反対」大幅増 東大調査、若い世代で多く\n\n#長崎県知事 #長崎市長 #地球市民 #台湾駐日代表 #全国知事会 \n#多文化共生 #nagomi #移民はもういらん",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/dfhAeSn8Zok/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/dfhAeSn8Zok/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/dfhAeSn8Zok/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/dfhAeSn8Zok/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/dfhAeSn8Zok/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H39M58S"
-    }
-  },
-  {
     "id": "VlvKWsO6xXM",
     "snippet": {
       "title": "R8 8/7 百田尚樹・有本香のニュース生放送　あさ8時！ 第893回",
@@ -1897,6 +1859,44 @@
     },
     "contentDetails": {
       "duration": "PT2H14M2S"
+    }
+  },
+  {
+    "id": "OEiWgreCD3U",
+    "snippet": {
+      "title": "R8 4/30百田尚樹・有本香のニュース生放送　あさ8時！ 第829回",
+      "publishedAt": "2026-04-30T02:15:59Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:01:28　番組開始\n00:15:25　ニュース一覧\n00:18:29　日本タンカーを通過させたイラン「日章丸事件」を強調した背景は\n01:13:19　高市首相、裁量労働制に触れず　連合メーデーに初出席\n01:46:23　NPO法人「フローレンス」が日本財団の助成金を不適切受給\n02:04:34　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OEiWgreCD3U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OEiWgreCD3U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OEiWgreCD3U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OEiWgreCD3U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OEiWgreCD3U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT2H7M8S"
     }
   }
 ]
