@@ -1444,6 +1444,44 @@
     }
   },
   {
+    "id": "ALCiKZUxALs",
+    "snippet": {
+      "title": "R8 5/18 百田尚樹・有本香のニュース生放送　あさ8時！ 第840回",
+      "publishedAt": "2026-05-18T02:12:08Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:01:45　番組開始\n00:04:50　ニュース一覧\n00:07:04　東大「五月祭」、参政・神谷代表の講演会の企画団体などに爆破予告\n00:48:21　「国会議員は非常に傲慢」保守党百田氏　皇室全体会議で\n01:23:25　ロンドンで極右集会とカウンターデモに数万人が参加、43人逮捕\n01:39:02　私立大「4割削減」案が波紋、財務省「規模の適正化」提唱も\n01:50:39　コンゴのエボラ熱、緊急事態宣言　WHO、東部の州で死者87人\n02:03:27　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ALCiKZUxALs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ALCiKZUxALs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ALCiKZUxALs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ALCiKZUxALs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ALCiKZUxALs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT2H5M16S"
+    }
+  },
+  {
     "id": "o8YZGckcE0E",
     "snippet": {
       "title": "R8 5/15【ゲスト：島田 洋一/森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第839回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H43M53S"
-    }
-  },
-  {
-    "id": "5WlndaqSPaU",
-    "snippet": {
-      "title": "R8 4/20 百田尚樹・有本香のニュース生放送　あさ8時！ 第822回",
-      "publishedAt": "2026-04-20T02:06:28Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:04:09　番組開始\n00:05:40　ニュース一覧\n00:17:20　伊勢崎市、松山市、にかほ市の市議会選挙 保守党から３名\n01:21:40　ナフサ不足、意外な物資に余波　バナナ、アイス、チョコレート\n01:41:37　消費減税 中道、階幹事長「恒久的にゼロは難しい気がする」\n01:53:40　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/5WlndaqSPaU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/5WlndaqSPaU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/5WlndaqSPaU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/5WlndaqSPaU/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/5WlndaqSPaU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT2H22S"
     }
   }
 ]
