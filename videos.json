@@ -38,6 +38,44 @@
     }
   },
   {
+    "id": "frV0fR4edBM",
+    "snippet": {
+      "title": "R8 8/18 百田尚樹・有本香のニュース生放送　あさ8時！ 第900回",
+      "publishedAt": "2026-08-15T09:59:23Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/frV0fR4edBM/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/frV0fR4edBM/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/frV0fR4edBM/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/frV0fR4edBM/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/frV0fR4edBM/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "hnZsPj47XtQ",
     "snippet": {
       "title": "R8 8/14 【ゲスト：森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第898回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT2H7M8S"
-    }
-  },
-  {
-    "id": "vM-T8kDbwHE",
-    "snippet": {
-      "title": "R8 4/27 百田尚樹・有本香のニュース生放送　あさ8時！ 第827回",
-      "publishedAt": "2026-04-27T01:55:35Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:02:31　番組開始\n00:14:12　ニュース一覧\n00:16:10　市議会選挙 保守党公認の伊藤純子氏、安川幸代氏 当選\n00:25:36　発砲音、活気一変、絶叫と恐怖に　トランプ氏、身かがめ退避\n00:50:20　食品消費税ゼロ、若田部昌澄氏「低所得者対策として理にかなう」\n01:00:53　米メタ、従業員8000人削減へ　AI関連支出が急増する中\n01:05:51　国旗損壊罪、岩屋前外相は反対「思想信条まで罰する恐れ」\n01:12:39　晴海フラッグ「チャイナタウン化」の実態\n01:25:27　日本人出国者、コロナ禍前の7割　25年、全都道府県で下回る\n01:37:22　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vM-T8kDbwHE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vM-T8kDbwHE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vM-T8kDbwHE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/vM-T8kDbwHE/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/vM-T8kDbwHE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H43M53S"
     }
   }
 ]
