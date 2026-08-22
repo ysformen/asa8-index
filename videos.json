@@ -114,44 +114,6 @@
     }
   },
   {
-    "id": "frV0fR4edBM",
-    "snippet": {
-      "title": "R8 8/18 【ゲスト：森けんたろう】百田尚樹・有本香のニュース生放送　あさ8時！ 第900回",
-      "publishedAt": "2026-08-18T00:47:54Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n00:05:45 今日のニュースラインナップ\n00:07:18 ①福岡県議長が辞職の意向伝える 勧告案は採決中止\n00:41:15 「ワンヘルス西公園」展望台を視察 — 3億4,000万円の実態\n01:07:04 ②熊本 ホテル・旅館への「2次避難」進まず「遠方に避難すると･･･」\n01:16:54 ⑦ 『認知症になりやすい人』には“性格に4つの共通点”\n01:31:44 ⑥リトアニア大使「日本が好きだからこそ寂しい」 日本社会の変化とは\n\n#福岡県議会 #蔵内勇夫 #金銭授受疑惑 #ワンヘルス\n#熊本地震 #認知症 #gdp",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/frV0fR4edBM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/frV0fR4edBM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/frV0fR4edBM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/frV0fR4edBM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/frV0fR4edBM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H42M19S"
-    }
-  },
-  {
     "id": "hnZsPj47XtQ",
     "snippet": {
       "title": "R8 8/14 【ゲスト：森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第898回",
@@ -1897,6 +1859,44 @@
     },
     "contentDetails": {
       "duration": "PT1H17M40S"
+    }
+  },
+  {
+    "id": "GxlxLJoaVYw",
+    "snippet": {
+      "title": "R8 5/6 【ゲスト：島田 洋一/森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第833回",
+      "publishedAt": "2026-05-06T02:06:50Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:22　番組開始\n00:03:54　ニュース一覧\n00:06:11　日豪共同宣言、強靭な供給網を経済安保の「中核」位置付け\n00:20:41　ﾊﾞﾝｸﾞﾗﾃﾞｼｭは29年までに日本で30万人の雇用創出を目指す\n00:42:49　エマニュエル前駐日大使が「タブー」破りイスラエル批判\n01:15:09　イラン、UAEにミサイル攻撃　米国の海峡通過措置に対抗か\n01:29:58　ペロブスカイト太陽電池の特許出願、中国が日本を逆転\n01:51:11　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GxlxLJoaVYw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GxlxLJoaVYw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GxlxLJoaVYw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GxlxLJoaVYw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GxlxLJoaVYw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H59M58S"
     }
   }
 ]
