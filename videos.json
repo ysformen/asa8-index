@@ -152,44 +152,6 @@
     }
   },
   {
-    "id": "dDPRePN2VEg",
-    "snippet": {
-      "title": "R8 8/17 【ゲスト：島田洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第899回",
-      "publishedAt": "2026-08-17T00:47:43Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n00:02:49 ④トランプ氏、金正恩氏とのツーショット投稿「とても仲が良い」\n00:17:06 今日のニュースラインナップ\n00:18:57 ①高市総理 靖国神社に直接参拝はせず「遥拝」\n　　　　②百田氏、靖国参拝「戦争を二度と起こさない、との言い方は違う」\n00:50:45 ⑥ 「北方領土はロシアが領有」加藤登紀子氏 アナ「正しくは実効支配」\n\n#核抑止 #終戦の日 #高市首相 #遙拝 #百田尚樹 #永遠の0\n#サンデーモーニング #tbs #加藤登紀子 #活動家\n#北方領土 #ロシア #択捉島 #日本固有の領土",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/dDPRePN2VEg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/dDPRePN2VEg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/dDPRePN2VEg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/dDPRePN2VEg/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/dDPRePN2VEg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H36M56S"
-    }
-  },
-  {
     "id": "hnZsPj47XtQ",
     "snippet": {
       "title": "R8 8/14 【ゲスト：森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第898回",
@@ -1897,6 +1859,44 @@
     },
     "contentDetails": {
       "duration": "PT1H28M52S"
+    }
+  },
+  {
+    "id": "_xXGjI-5gag",
+    "snippet": {
+      "title": "R8 5/7 百田尚樹・有本香のニュース生放送　あさ8時！ 第834回",
+      "publishedAt": "2026-05-07T01:26:07Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_xXGjI-5gag/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_xXGjI-5gag/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_xXGjI-5gag/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_xXGjI-5gag/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_xXGjI-5gag/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H17M40S"
     }
   }
 ]
