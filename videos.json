@@ -76,6 +76,44 @@
     }
   },
   {
+    "id": "bmwUhfSAuJA",
+    "snippet": {
+      "title": "R8 8/27 百田尚樹・有本香のニュース生放送　あさ8時！ 第907回",
+      "publishedAt": "2026-08-24T15:20:05Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bmwUhfSAuJA/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bmwUhfSAuJA/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bmwUhfSAuJA/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bmwUhfSAuJA/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bmwUhfSAuJA/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "xJNQJY3vAM4",
     "snippet": {
       "title": "R8 8/24 百田尚樹・有本香のニュース生放送　あさ8時！ 第904回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT1H42M25S"
-    }
-  },
-  {
-    "id": "P_gXrHNAPZw",
-    "snippet": {
-      "title": "R8 5/11 百田尚樹・有本香のニュース生放送　あさ8時！ 第836回",
-      "publishedAt": "2026-05-11T01:52:54Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:01:01　番組開始\n00:02:03　ニュース一覧\n00:08:25　立民系、養子案に反発　皇族確保、中道「容認」受け\n00:48:40　兵庫県が2028年度までに海外事務所全廃へ\n01:00:00　外国人へのごみ出しルール周知など国の交付税で半額負担\n01:25:47　イギリス地方選　与党・労働党が1300議席失う歴史的大敗\n01:31:40　高市首相の｢外国人政策｣はおかしい ｢人手不足｣のウソ\n01:34:27　留学生の学費を２.５倍に引き上げ国立大最高額の133万円とする案\n01:38:36　原子力規制庁の「業務用スマホ」紛失、1年間で少なくとも6件\n01:45:17　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/P_gXrHNAPZw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/P_gXrHNAPZw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/P_gXrHNAPZw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/P_gXrHNAPZw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/P_gXrHNAPZw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H47M40S"
     }
   }
 ]
