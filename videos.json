@@ -114,6 +114,44 @@
     }
   },
   {
+    "id": "65gtAAXQAGI",
+    "snippet": {
+      "title": "R8 8/28 【ゲスト：島田洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第908回",
+      "publishedAt": "2026-08-24T15:20:43Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "xJNQJY3vAM4",
     "snippet": {
       "title": "R8 8/24 百田尚樹・有本香のニュース生放送　あさ8時！ 第904回",
@@ -1859,44 +1897,6 @@
     },
     "contentDetails": {
       "duration": "PT2H17M59S"
-    }
-  },
-  {
-    "id": "FkhVuL7TWzs",
-    "snippet": {
-      "title": "R8 5/12 百田尚樹・有本香のニュース生放送　あさ8時！ 第837回",
-      "publishedAt": "2026-05-12T01:49:57Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\n00:00:00　準備画面\n00:00:23　番組開始\n00:00:53　ニュース一覧\n00:14:37　在留資格「経営・管理」の許可基準厳格化　新規申請は96％減　\n00:22:55　高市総理「日本として恥ずかしい」消費税率変更レジ改修めぐり\n01:10:13　自民・小野寺氏　米中接近に警戒感　14日に米中首脳会談\n01:28:55　国の借金、最大の1343兆円　3月末\n01:33:24　米大統領、イラン回答受け入れず　ホルムズ海峡段階的開放案\n01:40:30　締め挨拶\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/FkhVuL7TWzs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/FkhVuL7TWzs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/FkhVuL7TWzs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/FkhVuL7TWzs/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/FkhVuL7TWzs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H42M25S"
     }
   }
 ]
