@@ -1,5 +1,48 @@
 [
   {
+    "id": "65gtAAXQAGI",
+    "snippet": {
+      "title": "R8 8/28 【ゲスト：島田洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第908回",
+      "publishedAt": "2026-08-28T01:10:40Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n00:04:20 恥ずかしい国会議員\n00:08:23 今日のニュースラインナップ\n00:10:17 ②米CIA長官、ロシアにNATO攻撃しないよう警告\n00:35:12 選挙ドットコムちゃんねる\n支持政党×「ロシアは日本にとって軍事的な脅威だ」（ネット調査）\nhttps://youtu.be/dIP0Wa2CJXQ?si=WRrgrXB8Zk_j2OEV&t=1160\n00:51:31 ①ICC赤根所長「日本政府は法の支配守る努力を」\n01:03:38 ④下地氏撤退で「自民党VS県民党」の構図になると玉城デニー陣営\n01:26:02 ⑤衆院定数「適切に削減」与野党の選挙制度協議会、座長が修正案",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/fhddefault.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H46M34S"
+    }
+  },
+  {
     "id": "bmwUhfSAuJA",
     "snippet": {
       "title": "R8 8/27 百田尚樹・有本香のニュース生放送　あさ8時！ 第907回",
@@ -126,49 +169,6 @@
     },
     "contentDetails": {
       "duration": "PT1H44M56S"
-    }
-  },
-  {
-    "id": "65gtAAXQAGI",
-    "snippet": {
-      "title": "R8 8/28 【ゲスト：島田洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第908回",
-      "publishedAt": "2026-08-24T15:20:43Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n恥ずかしい国会議員\n今日のニュースラインナップ\n②米CIA長官、ロシアにNATO攻撃しないよう警告",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/default_live.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/mqdefault_live.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/hqdefault_live.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/sddefault_live.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/maxresdefault_live.jpg",
-          "width": 1280,
-          "height": 720
-        },
-        "fhd": {
-          "url": "https://i.ytimg.com/vi/65gtAAXQAGI/fhddefault_live.jpg",
-          "width": 1920,
-          "height": 1080
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "P0D"
     }
   },
   {
