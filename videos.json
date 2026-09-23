@@ -86,6 +86,49 @@
     }
   },
   {
+    "id": "b0i0wkbrLiQ",
+    "snippet": {
+      "title": "R8 9/24 百田尚樹・有本香のニュース生放送　あさ8時！ 第924回",
+      "publishedAt": "2026-09-21T23:36:47Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b0i0wkbrLiQ/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b0i0wkbrLiQ/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b0i0wkbrLiQ/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/b0i0wkbrLiQ/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/b0i0wkbrLiQ/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/b0i0wkbrLiQ/fhddefault_live.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "xwnmFjS8-SE",
     "snippet": {
       "title": "R8 9/21【ゲスト：森 けんたろう】百田尚樹・有本香のニュース生放送　あさ8時！ 第921回",
