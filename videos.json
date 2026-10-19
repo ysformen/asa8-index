@@ -1,5 +1,48 @@
 [
   {
+    "id": "Qr8hMGeSoZE",
+    "snippet": {
+      "title": "R8 10/20 百田尚樹・有本香のニュース生放送　あさ8時！ 第939回",
+      "publishedAt": "2026-10-19T02:27:24Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qr8hMGeSoZE/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qr8hMGeSoZE/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qr8hMGeSoZE/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Qr8hMGeSoZE/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Qr8hMGeSoZE/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/Qr8hMGeSoZE/fhddefault_live.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "G6O6isBW-fc",
     "snippet": {
       "title": "R8 10/16 【ゲスト：森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第938回",
@@ -2104,49 +2147,6 @@
     },
     "contentDetails": {
       "duration": "PT1H42M54S"
-    }
-  },
-  {
-    "id": "uyKsz0GGJ-4",
-    "snippet": {
-      "title": "R8 7/31 【現地報告：森けんたろう/大河内元喜】百田尚樹・有本香のニュース生放送　あさ8時！ 第889回",
-      "publishedAt": "2026-07-31T01:34:49Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n00:01:40 熊本地震〜現地より報告\n00:21:37 今日のニュースラインナップ\n00:24:20 ⑩日本保守党 川崎重工で潜水艦を視察\n00:46:45 ②高市首相、来年4月の消費減税を表明「2年後責任もって元に戻す」\n00:55:33 ③百田氏「国民の大多数はそんなに税金を払いたいの?」\n01:08:42 ④河野太郎氏、消費減税に反対 給付による対応主張\n01:13:55 ⑦日本国際貿易促進協会長に岩屋前外相 河野洋平氏の後任\n01:25:11 ⑥スマートフォン約9億円分を窃盗か ベトナム国籍の男を逮捕\n\n#熊本地震 #川崎重工 #消費減税 #日本国際貿易促進協会 #親中議員\n#移民はもういらん\n\n■オープニング音楽 配布元\n「創作堂さくら紅葉」\nURL :  https://yukizakura.net/",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/uyKsz0GGJ-4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/uyKsz0GGJ-4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/uyKsz0GGJ-4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/uyKsz0GGJ-4/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/uyKsz0GGJ-4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        },
-        "fhd": {
-          "url": "https://i.ytimg.com/vi/uyKsz0GGJ-4/fhddefault.jpg",
-          "width": 1920,
-          "height": 1080
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H30M57S"
     }
   }
 ]
