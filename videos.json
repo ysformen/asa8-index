@@ -43,6 +43,49 @@
     }
   },
   {
+    "id": "ZxL20XXd9iA",
+    "snippet": {
+      "title": "R8 10/21 百田尚樹・有本香のニュース生放送　あさ8時！ 第940回",
+      "publishedAt": "2026-10-19T02:30:44Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZxL20XXd9iA/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZxL20XXd9iA/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZxL20XXd9iA/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZxL20XXd9iA/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZxL20XXd9iA/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/ZxL20XXd9iA/fhddefault_live.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "G6O6isBW-fc",
     "snippet": {
       "title": "R8 10/16 【ゲスト：森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第938回",
@@ -2104,49 +2147,6 @@
     },
     "contentDetails": {
       "duration": "PT1H47M58S"
-    }
-  },
-  {
-    "id": "cg6gp7eyG8I",
-    "snippet": {
-      "title": "R8 8/3 百田尚樹・有本香のニュース生放送　あさ8時！ 第890回",
-      "publishedAt": "2026-08-03T01:46:57Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n00:03:25 今日はある方の誕生日です\n00:55:58 今日のニュースラインナップ\n00:57:35 ①稲田氏、2年限定の消費減税「総理が言ったから、ではダメ」\n01:10:15 ②石破前首相、消費税減税に苦言「苦しむのは誰か」\n01:17:34 ③日本保守党 災害支援で断水トイレに注水\n01:36:50 ⑦外国人採用続けるべきかの設問「差別に該当」三重県民アンケート",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cg6gp7eyG8I/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cg6gp7eyG8I/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cg6gp7eyG8I/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/cg6gp7eyG8I/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/cg6gp7eyG8I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        },
-        "fhd": {
-          "url": "https://i.ytimg.com/vi/cg6gp7eyG8I/fhddefault.jpg",
-          "width": 1920,
-          "height": 1080
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H42M54S"
     }
   }
 ]
