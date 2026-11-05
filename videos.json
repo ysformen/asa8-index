@@ -43,6 +43,49 @@
     }
   },
   {
+    "id": "BanfVyxB1XI",
+    "snippet": {
+      "title": "R8 11/6 百田尚樹・有本香のニュース生放送　あさ8時！ 第950回",
+      "publishedAt": "2026-11-04T15:23:34Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BanfVyxB1XI/default.jpg?v=6aec9913",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BanfVyxB1XI/mqdefault.jpg?v=6aec9913",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BanfVyxB1XI/hqdefault.jpg?v=6aec9913",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BanfVyxB1XI/sddefault.jpg?v=6aec9913",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BanfVyxB1XI/maxresdefault.jpg?v=6aec9913",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/BanfVyxB1XI/fhddefault.jpg?v=6aec9913",
+          "width": 1920,
+          "height": 1080
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "w_LKQpgOTKA",
     "snippet": {
       "title": "R8 11/4 【ゲスト：森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第948回",
@@ -2104,49 +2147,6 @@
     },
     "contentDetails": {
       "duration": "PT1H46M4S"
-    }
-  },
-  {
-    "id": "frV0fR4edBM",
-    "snippet": {
-      "title": "R8 8/18 【ゲスト：森けんたろう】百田尚樹・有本香のニュース生放送　あさ8時！ 第900回",
-      "publishedAt": "2026-08-18T00:47:54Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n00:05:45 今日のニュースラインナップ\n00:07:18 ①福岡県議長が辞職の意向伝える 勧告案は採決中止\n00:41:15 「ワンヘルス西公園」展望台を視察 — 3億4,000万円の実態\n01:07:04 ②熊本 ホテル・旅館への「2次避難」進まず「遠方に避難すると･･･」\n01:16:54 ⑦ 『認知症になりやすい人』には“性格に4つの共通点”\n01:31:44 ⑥リトアニア大使「日本が好きだからこそ寂しい」 日本社会の変化とは\n\n#福岡県議会 #蔵内勇夫 #金銭授受疑惑 #ワンヘルス\n#熊本地震 #認知症 #gdp",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/frV0fR4edBM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/frV0fR4edBM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/frV0fR4edBM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/frV0fR4edBM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/frV0fR4edBM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        },
-        "fhd": {
-          "url": "https://i.ytimg.com/vi/frV0fR4edBM/fhddefault.jpg",
-          "width": 1920,
-          "height": 1080
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H42M19S"
     }
   }
 ]
