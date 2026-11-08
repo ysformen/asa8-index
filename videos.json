@@ -1,5 +1,48 @@
 [
   {
+    "id": "NjlD0zfHeHQ",
+    "snippet": {
+      "title": "R8 11/9 百田尚樹・有本香のニュース生放送　あさ8時！ 第951回",
+      "publishedAt": "2026-11-08T07:35:32Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NjlD0zfHeHQ/default.jpg?v=6af02647",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NjlD0zfHeHQ/mqdefault.jpg?v=6af02647",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NjlD0zfHeHQ/hqdefault.jpg?v=6af02647",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NjlD0zfHeHQ/sddefault.jpg?v=6af02647",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NjlD0zfHeHQ/maxresdefault.jpg?v=6af02647",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/NjlD0zfHeHQ/fhddefault.jpg?v=6af02647",
+          "width": 1920,
+          "height": 1080
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "BanfVyxB1XI",
     "snippet": {
       "title": "R8 11/6 【ゲスト：高橋洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第950回",
@@ -2104,49 +2147,6 @@
     },
     "contentDetails": {
       "duration": "PT1H44M40S"
-    }
-  },
-  {
-    "id": "EWYJd3rxGvk",
-    "snippet": {
-      "title": "R8 8/19 【ゲスト：森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第901回",
-      "publishedAt": "2026-08-19T01:51:24Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n00:16:36 今日のニュースラインナップ\n00:17:52 米トランプ政権 ICC＝国際刑事裁判所 赤根所長を制裁対象に\n00:29:04 ①NY市長が驚きの物価対策 市営の格安食料品店開設を発表\n00:44:50 ②中道の支持率1.7% 小川代表の無策で3党合流は破綻寸前か\n01:00:04 ④政府 日本で暮らす外国人の学習プログラム創設へ検討開始\n01:29:48 ⑤外国人の国民年金納付が低調、制度理解進まず\n01:38:07 ⑥日本で働いた外国人 出国後の住民税滞納額割合18.6%\n\n#icc #トランプ #マムダニ市長 #ゴリラ\n#移民はもういらん #移民のコスト",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/EWYJd3rxGvk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/EWYJd3rxGvk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/EWYJd3rxGvk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/EWYJd3rxGvk/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/EWYJd3rxGvk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        },
-        "fhd": {
-          "url": "https://i.ytimg.com/vi/EWYJd3rxGvk/fhddefault.jpg",
-          "width": 1920,
-          "height": 1080
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H46M4S"
     }
   }
 ]
