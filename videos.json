@@ -86,6 +86,49 @@
     }
   },
   {
+    "id": "aDGQ98F-wBk",
+    "snippet": {
+      "title": "R8 11/11 百田尚樹・有本香のニュース生放送　あさ8時！ 第953回",
+      "publishedAt": "2026-11-08T07:37:08Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/default.jpg?v=6af026a8",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/mqdefault.jpg?v=6af026a8",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/hqdefault.jpg?v=6af026a8",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/sddefault.jpg?v=6af026a8",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/maxresdefault.jpg?v=6af026a8",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/fhddefault.jpg?v=6af026a8",
+          "width": 1920,
+          "height": 1080
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "BanfVyxB1XI",
     "snippet": {
       "title": "R8 11/6 【ゲスト：高橋洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第950回",
@@ -2104,49 +2147,6 @@
     },
     "contentDetails": {
       "duration": "PT1H40M24S"
-    }
-  },
-  {
-    "id": "tVoV1Md1xZA",
-    "snippet": {
-      "title": "R8 8/21 百田尚樹・有本香のニュース生放送　あさ8時！ 第903回",
-      "publishedAt": "2026-08-21T00:38:33Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n00:02:19 今日のニュースラインナップ\n00:04:36 ③2月の衆院選長崎3区で落選 田崎耕太元市議を逮捕\n00:46:25 ②中国、日本の沖縄帰属に「疑義」フィリピンにも類似主張\n01:05:47 ①中国恒大創業者に無期懲役 詐欺などの罪で\n01:16:15 ⑤「赤い羽根共同募金」1.8億円使途不明問題\n01:30:06 ⑦福岡市の日本語学校が4LDKにネパール留学生30人を入居\n\n#沖縄県知事選 #古謝げんた #gpif #赤いピンハネ #留学生 #日本語学校\n#移民はもういらん",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/tVoV1Md1xZA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/tVoV1Md1xZA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/tVoV1Md1xZA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/tVoV1Md1xZA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/tVoV1Md1xZA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        },
-        "fhd": {
-          "url": "https://i.ytimg.com/vi/tVoV1Md1xZA/fhddefault.jpg",
-          "width": 1920,
-          "height": 1080
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H34M37S"
     }
   }
 ]
