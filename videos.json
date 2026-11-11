@@ -1,5 +1,48 @@
 [
   {
+    "id": "aDGQ98F-wBk",
+    "snippet": {
+      "title": "R8 11/11 【ゲスト：森下つよし】百田尚樹・有本香のニュース生放送　あさ8時！ 第953回",
+      "publishedAt": "2026-11-11T01:56:22Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n11月11日はポッキーの日\n今日のニュースラインナップ\n⑧福岡市長選 森けんたろう氏のボランティア 突き飛ばされ負傷\n①中国が台湾周辺で「サイレント大規模演習」か 空母など100隻超\n②頼総統、衛星の国内打ち上げに向け「着実に前進」\n⑤JR東、2028年春から「ウォークスルー改札」本格導入\n④中学生4割が外国人増に否定的 ネットの影響か\n⑥「財布取ったでしょ」袖つかまれるも逃走 中国籍の男逮捕\n⑦家族帯同と永住へ続く「育成就労」を後押しした組織の正体\n\n#福岡市長選 #森けんたろう #選挙妨害\n#中国 #台湾 #中国軍 #軍事演習 #遼寧\n#頼清徳 #台湾宇宙国際年会\n#ウォークスルー改札 #jr東日本\n#外国人問題 #移民はもういらん #移民のコスト #民泊規制\n#山岡鉄秀 #nagomi #jica #育成就労制度 #家族帯同 #永住 #多文化共生庁",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/fhddefault.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H50M25S"
+    }
+  },
+  {
     "id": "gBcb1O-6W_M",
     "snippet": {
       "title": "R8 11/10 百田尚樹・有本香のニュース生放送　あさ8時！ 第952回",
@@ -83,49 +126,6 @@
     },
     "contentDetails": {
       "duration": "PT1H44M40S"
-    }
-  },
-  {
-    "id": "aDGQ98F-wBk",
-    "snippet": {
-      "title": "R8 11/11 百田尚樹・有本香のニュース生放送　あさ8時！ 第953回",
-      "publishedAt": "2026-11-08T07:37:08Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/default.jpg?v=6af026a8",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/mqdefault.jpg?v=6af026a8",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/hqdefault.jpg?v=6af026a8",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/sddefault.jpg?v=6af026a8",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/maxresdefault.jpg?v=6af026a8",
-          "width": 1280,
-          "height": 720
-        },
-        "fhd": {
-          "url": "https://i.ytimg.com/vi/aDGQ98F-wBk/fhddefault.jpg?v=6af026a8",
-          "width": 1920,
-          "height": 1080
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "P0D"
     }
   },
   {
@@ -900,6 +900,49 @@
     },
     "contentDetails": {
       "duration": "PT1H22M50S"
+    }
+  },
+  {
+    "id": "BA9BKjJdD9I",
+    "snippet": {
+      "title": "R8 10/7 百田尚樹・有本香のニュース生放送　あさ8時！ 第932回",
+      "publishedAt": "2026-10-07T02:04:48Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n00:04:57 今日のニュースラインナップ\n00:06:31 百田尚樹登場\n00:08:41 ②百田氏、簗農水相に辞任要求「まともな首相なら早めに更迭だ」\n00:24:16 ③「台湾総統の息子を監視」FBIが容疑で女性を逮捕\n00:49:43 ⑦公明・岡本三成代表、在日韓国人3世の出自公表\n01:31:01 ⑥川越の無許可モスク、市が撤去命令 使用者「市が壊せばお金払う」\n\n#臨時国会 #百田尚樹 #簗農水相 #嫌な大臣 #自民党\n#頼清徳 #中国の代理人 #スパイ #アイリスチャン #レイプオブ南京 #南京事件は嘘\n#村上春樹 #騎士団長殺しは論外 #セキュリティクリアランス #スパイ防止法\n#民団 #岡本さん知ってることあったら言うて #通名 #朝鮮 #南蛮 #倭国\n#モスク #移民はもういらん #移民のコスト",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BA9BKjJdD9I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BA9BKjJdD9I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BA9BKjJdD9I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BA9BKjJdD9I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BA9BKjJdD9I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/BA9BKjJdD9I/fhddefault.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1H45M6S"
     }
   },
   {
@@ -2104,49 +2147,6 @@
     },
     "contentDetails": {
       "duration": "PT1H40M24S"
-    }
-  },
-  {
-    "id": "tVoV1Md1xZA",
-    "snippet": {
-      "title": "R8 8/21 百田尚樹・有本香のニュース生放送　あさ8時！ 第903回",
-      "publishedAt": "2026-08-21T00:38:33Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n00:02:19 今日のニュースラインナップ\n00:04:36 ③2月の衆院選長崎3区で落選 田崎耕太元市議を逮捕\n00:46:25 ②中国、日本の沖縄帰属に「疑義」フィリピンにも類似主張\n01:05:47 ①中国恒大創業者に無期懲役 詐欺などの罪で\n01:16:15 ⑤「赤い羽根共同募金」1.8億円使途不明問題\n01:30:06 ⑦福岡市の日本語学校が4LDKにネパール留学生30人を入居\n\n#沖縄県知事選 #古謝げんた #gpif #赤いピンハネ #留学生 #日本語学校\n#移民はもういらん",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/tVoV1Md1xZA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/tVoV1Md1xZA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/tVoV1Md1xZA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/tVoV1Md1xZA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/tVoV1Md1xZA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        },
-        "fhd": {
-          "url": "https://i.ytimg.com/vi/tVoV1Md1xZA/fhddefault.jpg",
-          "width": 1920,
-          "height": 1080
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H34M37S"
     }
   }
 ]
