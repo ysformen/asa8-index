@@ -2,39 +2,44 @@
   {
     "id": "hVv7KJtwiEI",
     "snippet": {
-      "title": "ニュースあさ8時! がライブ配信中！",
-      "publishedAt": "2026-11-14T01:11:36Z",
+      "title": "R8 11/14 【いざ福岡へ】百田尚樹・有本香のニュース生放送　あさ8時！",
+      "publishedAt": "2026-11-14T01:24:24Z",
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/hVv7KJtwiEI/default.jpg?v=6af7b564",
+          "url": "https://i.ytimg.com/vi/hVv7KJtwiEI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/hVv7KJtwiEI/mqdefault.jpg?v=6af7b564",
+          "url": "https://i.ytimg.com/vi/hVv7KJtwiEI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/hVv7KJtwiEI/hqdefault.jpg?v=6af7b564",
+          "url": "https://i.ytimg.com/vi/hVv7KJtwiEI/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/hVv7KJtwiEI/sddefault.jpg?v=6af7b564",
+          "url": "https://i.ytimg.com/vi/hVv7KJtwiEI/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/hVv7KJtwiEI/maxresdefault.jpg?v=6af7b564",
+          "url": "https://i.ytimg.com/vi/hVv7KJtwiEI/maxresdefault.jpg",
           "width": 1280,
           "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/hVv7KJtwiEI/fhddefault.jpg",
+          "width": 1920,
+          "height": 1080
         }
       }
     },
     "contentDetails": {
-      "duration": "P0D"
+      "duration": "PT9M52S"
     }
   },
   {
