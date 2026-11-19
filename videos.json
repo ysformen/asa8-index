@@ -129,6 +129,49 @@
     }
   },
   {
+    "id": "wmpcK1n_-m4",
+    "snippet": {
+      "title": "R8 11/20 百田尚樹・有本香のニュース生放送　あさ8時！ 第958回",
+      "publishedAt": "2026-11-15T15:28:39Z",
+      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wmpcK1n_-m4/default.jpg?v=6af9cfa9",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wmpcK1n_-m4/mqdefault.jpg?v=6af9cfa9",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wmpcK1n_-m4/hqdefault.jpg?v=6af9cfa9",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wmpcK1n_-m4/sddefault.jpg?v=6af9cfa9",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wmpcK1n_-m4/maxresdefault.jpg?v=6af9cfa9",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/wmpcK1n_-m4/fhddefault.jpg?v=6af9cfa9",
+          "width": 1920,
+          "height": 1080
+        }
+      }
+    },
+    "contentDetails": {
+      "duration": "P0D"
+    }
+  },
+  {
     "id": "hVv7KJtwiEI",
     "snippet": {
       "title": "R8 11/14 【いざ福岡へ】百田尚樹・有本香のニュース生放送　あさ8時！",
@@ -2104,49 +2147,6 @@
     },
     "contentDetails": {
       "duration": "PT1H30M19S"
-    }
-  },
-  {
-    "id": "h82PP0j1RW0",
-    "snippet": {
-      "title": "R8 8/31 【ゲスト：島田洋一】百田尚樹・有本香のニュース生放送　あさ8時！ 第909回",
-      "publishedAt": "2026-08-31T01:06:31Z",
-      "description": "ハッシュタグ→#あさ8\nニュースあさ８！ X(旧Twitter) https://twitter.com/News_Asa8\n日本保守党（公式）Conservative Party of Japan X(旧Twitter) https://twitter.com/hoshuto_jp\n\nポッドキャストでの視聴はこちらから\nhttps://music.youtube.com/playlist?list=PLzlx8N_uhu0KDhomzuMkydz46jczE5mDa&si=XhKKWzcuXCETIZLZ\n\n00:03:28 福井の状況\n00:08:10 今日のニュースランナップ\n00:10:00 ①福井3市に一時大雨特別警報、30万人超に緊急安全確保\n00:17:25 ②米政権が外国人20万人のビザ取り消しへ、過去最大規模\n00:45:46 ⑥ミナミのベトナム人向けクラブ 男女9人逮捕 違法薬物の拠点か\n01:09:20 ⑧中道、分裂の公算大 公明出身議員の離脱を調整\n01:28:32 ⑦沖縄知事選、戦略違い明確 初の週末、現新陣営が奔走\n01:45:10 百田さんの体調\n\n#トランプ #偽装難民対策 #中間選挙 #移民はもういらん #移民のコスト\n#辺野古 #古謝げんた",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/h82PP0j1RW0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/h82PP0j1RW0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/h82PP0j1RW0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/h82PP0j1RW0/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/h82PP0j1RW0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        },
-        "fhd": {
-          "url": "https://i.ytimg.com/vi/h82PP0j1RW0/fhddefault.jpg",
-          "width": 1920,
-          "height": 1080
-        }
-      }
-    },
-    "contentDetails": {
-      "duration": "PT1H50M11S"
     }
   }
 ]
